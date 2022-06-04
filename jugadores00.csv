@@ -1,0 +1,655 @@
+Apodo,Nombre,Fecha,Ciudad,Provincia,País,PJ,PT,PC,PS,PX,PG,PE,PP,Min,G,GP,GPP,GE,TA,TR,EI,EF,Altura,Peso
+Marcos Vales,Marcos Vales Illanes,05/04/1975,A Coruña,A Coruña,España,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,23,23,181.0,77.0
+Acuña,Juan Acuña Naya,13/02/1923,A Coruña,A Coruña,España,1,0,0,1,0,1,0,0,16,0,0,0,1,0,0,18,18,179.0,88.0
+Martín,José María Martín Rodríguez,25/04/1924,A Coruña,A Coruña,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,28,28,176.0,74.0
+Casilla,Francisco Casilla Cortés,02/10/1986,Alcover,Tarragona,España,1,0,0,1,0,0,0,1,13,0,0,0,1,0,0,28,28,192.0,83.0
+Juan Sánchez,Juan Ginés Sánchez Romero,15/05/1972,Aldaia,Valencia,España,1,0,0,1,0,0,1,0,12,0,0,0,0,0,0,26,26,173.0,72.0
+Cucurella,Marc Cucurella Saseta,22/07/1998,Alella,Barcelona,España,1,1,0,0,1,1,0,0,46,0,0,0,0,0,0,22,22,172.0,68.0
+Piquer,Vicente Piquer Mora,24/02/1935,Algar de Palancia,Valencia,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,26,26,173.0,71.0
+Ito,Antonio Álvarez Pérez,21/01/1975,Almendralejo,Badajoz,España,1,0,0,1,0,1,0,0,2,0,0,0,0,0,0,23,23,175.0,70.0
+Planas II,Javier Planas Abad,03/07/1949,Almudévar,Huesca,España,1,1,1,0,0,1,0,0,90,0,0,0,0,1,0,25,25,174.0,74.0
+Josep Martínez,Josep Martínez Riera,27/05/1998,Alzira,Valencia,España,1,0,0,1,0,1,0,0,22,0,0,0,0,0,0,23,23,191.0,78.0
+Etxeita,Xabier Etxeita Gorritxategi,31/10/1987,Amorebieta-Etxano,Bizkaia,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,27,27,186.0,80.0
+Chuzo,Antonio González Álvarez,28/01/1940,Antequera,Málaga,España,1,0,0,1,0,0,0,1,48,0,0,0,0,0,0,20,20,172.0,72.0
+Álvaro Fernández,Álvaro Fernández Llorente,13/04/1998,Arnedo,La Rioja,España,1,1,0,0,1,1,0,0,68,0,0,0,0,0,0,23,23,186.0,80.0
+Solana,Jesús Ángel Solana Bermejo,25/12/1964,Arnedo,La Rioja,España,1,0,0,1,0,1,0,0,6,0,0,0,0,0,0,23,23,179.0,74.0
+Escalza,Francisco Javier Escalza Ellacuria,10/12/1952,Arrankudiaga,Bizkaia,España,1,1,1,0,0,0,0,1,90,0,0,0,0,0,0,25,25,177.0,70.0
+López Rekarte,Aitor López Rekarte,18/08/1975,Arrasate,Gipuzkoa,España,1,1,1,0,0,0,1,0,59,0,0,0,0,0,0,29,29,173.0,71.0
+Lopetegui,Julen Lopetegi Agote,28/08/1966,Asteasu,Gipuzkoa,España,1,0,0,1,0,0,0,1,26,0,0,0,0,0,0,27,27,185.0,84.0
+Larrañaga,Jon Andoni Larrañaga Gurrutxaga,03/07/1958,Azpeitia,Gipuzkoa,España,1,1,1,0,0,0,0,1,90,0,0,0,0,0,0,29,29,177.0,75.0
+Ochoa,Miguel Ángel Ochoa Vaca,29/09/1944,Badajoz,Badajoz,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,29,29,174.0,72.0
+Lezama,Raimundo Pérez Lezama,29/11/1922,Barakaldo,Bizkaia,España,1,0,0,1,0,0,0,1,42,0,0,0,2,0,0,24,24,178.0,76.0
+Canito,Nicanor Sagarduy Gonzalo,18/03/1931,Barakaldo,Bizkaia,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,25,25,170.0,66.0
+Puado,Javier Puado Díaz,25/05/1998,Barcelona,Barcelona,España,1,0,0,1,0,1,0,0,37,1,0,0,0,0,0,23,23,177.0,69.0
+Raya,David Raya Martín,15/09/1995,Barcelona,Barcelona,España,1,1,1,0,0,1,0,0,90,0,0,0,1,0,0,26,26,183.0,80.0
+Tello,Cristian Tello Herrera,11/08/1991,Barcelona,Barcelona,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,22,22,178.0,66.0
+Argila,Fernando de Argila Pazzaglia,26/12/1920,Barcelona,Barcelona,España,1,1,1,0,0,1,0,0,90,0,0,0,1,0,0,33,33,180.0,80.0
+Manchón,Eduardo Manchón Molina,24/07/1930,Barcelona,Barcelona,España,1,1,1,0,0,0,0,1,90,0,0,0,0,0,0,23,23,168.0,62.0
+Fortes,Francisco Fortes Calvo,04/01/1955,Barcelona,Barcelona,España,1,0,0,1,0,0,1,0,14,0,0,0,0,0,0,20,20,170.0,70.0
+Fuertes,Antonio Fuertes Pascual,03/12/1929,Benimàmet,Valencia,España,1,1,1,0,0,0,0,1,90,0,0,0,0,0,0,23,23,172.0,71.0
+Liceranzu,Jesús Iñigo Liceranzu Otxoa,13/03/1959,Bilbao,Bizkaia,España,1,1,1,0,0,0,0,1,90,0,0,0,0,0,0,26,26,183.0,83.0
+Williams,Iñaki Williams Arthuer,15/06/1994,Bilbao,Bizkaia,España,1,0,0,1,0,1,0,0,31,0,0,0,0,0,0,21,21,186.0,79.0
+Rojo II,José Ángel Rojo Arroita,19/03/1948,Bilbao,Bizkaia,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,25,25,176.0,73.0
+Deusto,Juan Antonio Deusto Olagorta,08/01/1946,Bilbao,Bizkaia,España,1,1,1,0,0,0,0,1,90,0,0,0,2,0,0,27,27,180.0,77.0
+Touriño,Juan Carlos Touriño Cancela,14/07/1944,Buenos Aires,Extranjero,Argentina,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,27,27,178.0,72.0
+Manzanedo,José Luis Fernández Manzanedo,10/02/1956,Burgos,Burgos,España,1,0,0,1,0,1,0,0,44,0,0,0,0,0,0,21,21,183.0,81.0
+Botubot,Manuel Ángel Botubot Pereira,23/11/1955,Cádiz,Cádiz,España,1,1,1,0,0,0,0,1,90,0,0,0,0,0,0,23,23,184.0,81.0
+Ezquerro,Santiago Ezquerro Marín,14/12/1976,Calahorra,La Rioja,España,1,0,0,1,0,0,0,1,30,0,0,0,0,0,0,21,21,180.0,70.0
+Jara,Vicente Anastasio Jara Segovia,03/02/1941,Capiatá,Extranjero,Paraguay,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,25,25,168.0,67.0
+Juanmi,Juan Miguel García Inglés,09/03/1971,Cartagena,Murcia,España,1,0,0,1,0,1,0,0,6,0,0,0,0,0,0,28,28,181.0,73.0
+Sánchez,Robert Lynch Sánchez,18/11/1997,Cartagena,Murcia,España,1,0,0,1,0,1,0,0,16,0,0,0,0,0,0,23,23,197.0,90.0
+Pujol,Lluís Pujol Codina,25/05/1947,Castellbell i el Vilar,Barcelona,España,1,0,0,1,0,1,0,0,44,0,0,0,0,0,0,22,22,172.0,68.0
+Mingorance,José Mingorance Chimeno,10/04/1938,Castro de Sanabria,Zamora,España,1,1,0,0,1,0,0,1,35,0,0,0,0,0,0,25,25,181.0,80.0
+Arias,Ricardo Penella Arias,25/02/1957,Catarroja,Valencia,España,1,1,0,0,1,0,1,0,46,0,0,0,0,0,0,22,22,182.0,78.0
+Lesmes,Francisco Lesmes Bobed,04/03/1924,Ceuta,Ceuta,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,29,29,182.0,74.0
+Juanmi,Juan Miguel Jiménez López,20/05/1993,Coín,Málaga,España,1,1,0,0,1,0,0,1,62,0,0,0,0,0,0,21,21,172.0,69.0
+César,César Sánchez Domínguez,02/09/1971,Coria,Cáceres,España,1,1,1,0,0,0,0,1,90,0,0,0,4,0,0,28,28,185.0,82.0
+Aldecoa,Emilio Aldecoa Gómez,30/11/1922,Deusto,Bizkaia,España,1,0,0,1,0,1,0,0,59,0,0,0,0,0,0,25,25,176.0,70.0
+Pedro Porro,Pedro Antonio Porro Sauceda,13/09/1999,Don Benito,Badajoz,España,1,1,0,0,1,1,0,0,65,0,0,0,0,1,0,21,21,176.0,71.0
+Zubimendi,Martín Zubimendi Ibáñez,02/02/1999,Donostia/San Sebastián,Gipuzkoa,España,1,1,0,0,1,1,0,0,53,0,0,0,0,0,0,22,22,180.0,74.0
+Imaz,Andoni Imaz Garmendia,05/09/1971,Donostia/San Sebastián,Gipuzkoa,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,21,21,177.0,75.0
+Ochotorena,José Manuel Ochotorena Santacruz,16/01/1961,Donostia/San Sebastián,Gipuzkoa,España,1,0,0,1,0,1,0,0,9,0,0,0,0,0,0,28,28,182.0,78.0
+Ontoria,Sebastián Ontoria Escolaza,20/01/1920,Donostia/San Sebastián,Gipuzkoa,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,30,30,168.0,71.0
+Gisasola,Agustín Gisasola Zabala,22/07/1952,Eibar,Gipuzkoa,España,1,1,1,0,0,0,0,1,90,0,0,0,0,0,0,27,27,180.0,78.0
+Susaeta,Markel Susaeta Laskurain,14/12/1987,Eibar,Gipuzkoa,España,1,0,0,1,0,1,0,0,18,1,0,0,0,0,0,24,24,178.0,64.0
+Óscar Gil,Óscar Gil Regaño,26/04/1998,Elx,Alicante,España,1,1,0,0,1,1,0,0,46,0,0,0,0,0,0,23,23,175.0,71.0
+Marianín,Mariano Arias Chamorro,18/05/1946,Fabero,León,España,1,0,0,1,0,0,1,0,23,0,0,0,0,0,0,27,27,175.0,74.0
+Minguela,Luis Mariano Minguela Muñoz,05/01/1960,Frumales,Segovia,España,1,0,0,1,0,1,0,0,32,0,0,0,0,0,0,29,29,176.0,73.0
+Robus,Robustiano Bilbao Echevarría,18/12/1900,Getxo,Bizkaia,España,1,1,1,0,0,0,0,1,90,0,0,0,0,0,0,27,27,160.0,61.0
+Manolín,Manuel Martínez Canales,21/05/1928,Getxo,Bizkaia,España,1,1,1,0,0,0,0,1,90,0,0,0,0,0,0,25,25,171.0,71.0
+Herrera,Jesús Herrera Alonso,05/02/1938,Gijón,Asturias,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,22,22,172.0,72.0
+Barrachina,Fernando Barrachina Plo,24/02/1947,Granada,Granada,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,22,22,184.0,83.0
+Millán,José Millán González,19/02/1920,Granada,Granada,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,25,25,178.0,77.0
+Heriberto Herrera,Heriberto Herrera Udrizar,24/04/1926,Guarambaré,Extranjero,Paraguay,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,30,30,185.0,78.0
+Landaburu,Jesús Landaburu Sagüillo,24/01/1955,Guardo,Palencia,España,1,0,0,1,0,1,0,0,44,0,0,0,0,0,0,24,24,175.0,72.0
+Chano,Sebastián Cruzado Fernández,28/02/1965,Huelva,Huelva,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,28,28,181.0,75.0
+Matito,Román Matito Domínguez,02/02/1927,Huelva,Huelva,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,28,28,175.0,71.0
+Pozo,Alejandro Pozo Pozo,22/02/1999,Huévar del Aljarafe,Sevilla,España,1,0,0,1,0,1,0,0,44,0,0,0,0,0,0,22,22,180.0,70.0
+Manu del Moral,Manuel del Moral Fernández,25/02/1984,Jaén,Jaén,España,1,0,0,1,0,1,0,0,44,0,0,0,0,0,0,27,27,185.0,84.0
+Diego,Diego Rodríguez Fernández,20/04/1960,La Orotava,Santa Cruz de Tenerife,España,1,0,0,1,0,0,0,1,44,0,0,0,0,0,0,27,27,183.0,76.0
+López,Francisco Javier López García,14/10/1950,Laredo,Cantabria,España,1,0,0,1,0,1,0,0,6,0,0,0,0,0,0,26,26,174.0,75.0
+Jonathan Viera,Jonathan Viera Ramos,21/10/1989,Las Palmas de Gran Canaria,Las Palmas,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,27,27,170.0,64.0
+Guayre,Antonio Guayre Betancor Perdomo,23/04/1980,Las Palmas de Gran Canaria,Las Palmas,España,1,0,0,1,0,1,0,0,14,0,0,0,0,0,0,24,24,176.0,72.0
+Bojan,Bojan Krkić Pérez,28/08/1990,Linyola,Lleida,España,1,0,0,1,0,1,0,0,25,0,0,0,0,0,0,18,18,172.0,65.0
+Canito,José Cano López,22/04/1956,Llavorsí,Lleida,España,1,0,0,1,0,0,0,1,17,0,0,0,0,0,0,22,22,185.0,79.0
+Aranzubia,Daniel Aranzubia Aguado,18/09/1979,Logroño,La Rioja,España,1,0,0,1,0,1,0,0,29,0,0,0,0,0,0,24,24,187.0,85.0
+Luis Cembranos,Luis Cembranos Martínez,06/06/1972,Lucerna,Extranjero,Suiza,1,0,0,1,0,1,0,0,14,0,0,0,0,0,0,27,27,172.0,71.0
+Losada,Sebastián Losada Bestard,03/09/1967,Madrid,Madrid,España,1,0,0,1,0,0,1,0,44,0,0,0,0,0,0,27,27,183.0,78.0
+Marsal,Ramón Marsal Ribó,12/12/1934,Madrid,Madrid,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,23,23,182.0,81.0
+Arizmendi,Ángel Javier Arizmendi de Lucas,03/03/1984,Madrid,Madrid,España,1,0,0,1,0,1,0,0,26,0,0,0,0,0,0,22,22,189.0,76.0
+Contreras,Pedro Contreras González,07/01/1972,Madrid,Madrid,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,30,30,180.0,80.0
+Rubio,Juan José Rubio Jiménez,28/08/1956,Madrid,Madrid,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,24,24,173.0,68.0
+Sobrado,Eduardo Sobrado Vázquez,20/04/1926,Madrid,Madrid,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,25,25,168.0,67.0
+Casado,Pedro Casado Bucho,20/11/1937,Madrid,Madrid,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,23,23,173.0,71.0
+Clares,Manuel Clares García,23/02/1948,Madrid,Madrid,España,1,1,0,0,1,0,1,0,67,0,0,0,0,0,0,25,25,177.0,78.0
+De Felipe,Pedro Eugenio de Felipe Cortés,18/07/1944,Madrid,Madrid,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,29,29,178.0,81.0
+Serena,Fernando Rodríguez Serena,28/01/1941,Madrid,Madrid,España,1,0,0,1,0,0,1,0,44,0,0,0,0,0,0,21,21,165.0,64.0
+Borja Valero,Borja Valero Iglesias,12/01/1985,Madrid,Madrid,España,1,0,0,1,0,1,0,0,25,0,0,0,0,0,0,26,26,175.0,73.0
+Valero,Antonio Valero Yubero,31/03/1932,Madrid,Madrid,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,24,24,172.0,72.0
+Brahim Díaz,Brahim Abdelkader Díaz,03/08/1999,Málaga,Málaga,España,1,1,1,0,0,1,0,0,90,1,0,0,0,0,0,21,21,171.0,68.0
+Lanchas,Ángel Lanchas Rico,07/11/1950,Méntrida,Toledo,España,1,0,0,1,0,1,0,0,44,0,0,0,0,0,0,27,27,174.0,73.0
+Víctor,Víctor Manuel Fernández Gutiérrez,17/04/1974,Mérida,Badajoz,España,1,0,0,1,0,0,1,0,25,0,0,0,0,0,0,25,25,165.0,66.0
+Blanco,Antonio Blanco Conde,23/07/2000,Montalbán de Córdoba,Córdoba,España,1,0,0,1,0,1,0,0,37,0,0,0,0,0,0,20,20,175.0,68.0
+Verdugo,Juan Verdugo Pérez,25/05/1949,Montilla,Córdoba,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,28,28,179.0,67.0
+Villar,Gonzalo Villar del Fraile,23/03/1998,Murcia,Murcia,España,1,1,0,0,1,1,0,0,74,0,0,0,0,0,0,23,23,181.0,73.0
+Miranda,Juan Miranda González,19/01/2000,Olivares,Sevilla,España,1,0,0,1,0,1,0,0,44,1,0,0,0,0,0,21,21,185.0,76.0
+Idígoras,Santiago Idígoras Bilbao,24/07/1953,Oñati,Gipuzkoa,España,1,0,0,1,0,1,0,0,44,0,0,0,0,0,0,23,23,180.0,79.0
+Manu García,Manuel García Alonso,02/01/1998,Oviedo,Asturias,España,1,1,0,0,1,1,0,0,53,0,0,0,0,0,0,23,23,170.0,65.0
+Michu,Miguel Pérez Cuesta,21/03/1986,Oviedo,Asturias,España,1,1,0,0,1,1,0,0,57,0,0,0,0,0,0,27,27,191.0,78.0
+Asenjo,Sergio Asenjo Andrés,28/06/1989,Palencia,Palencia,España,1,1,1,0,0,1,0,0,90,0,0,0,1,0,0,26,26,182.0,85.0
+Tiko,Roberto Martínez Rípodas,15/09/1976,Pamplona,Navarra,España,1,0,0,1,0,0,0,1,44,0,0,0,0,0,0,25,25,178.0,74.0
+Larrainzar,Iñigo Larrainzar Santamaría,05/06/1971,Pamplona,Navarra,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,22,22,173.0,70.0
+Areta II,Esteban Areta Vélez,14/04/1932,Pamplona,Navarra,España,1,0,0,1,0,1,0,0,6,0,0,0,0,0,0,29,29,176.0,72.0
+Diego López,Diego López Rodríguez,03/11/1981,Paradela,Lugo,España,1,0,0,1,0,1,0,0,25,0,0,0,0,0,0,27,27,195.0,87.0
+Miera,Vicente Miera Campos,10/05/1940,Peñacastillo,Cantabria,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,21,21,178.0,72.0
+Megido,Alfredo Megido Sánchez,02/10/1952,Peñaflor,Sevilla,España,1,0,0,1,0,0,1,0,24,1,0,0,0,0,0,22,22,179.0,74.0
+Luis García,Luis García García,01/05/1964,Peñaranda de Bracamonte,Salamanca,España,1,0,0,1,0,0,1,0,17,0,0,0,0,0,0,23,23,188.0,76.0
+Diego,José Diego Álvarez Álvarez,21/12/1954,Pino,Lugo,España,1,0,0,1,0,0,0,1,44,0,0,0,0,0,0,25,25,179.0,77.0
+Unai,Unai Vergara Díez-Caballero,21/01/1977,Portugalete,Bizkaia,España,1,1,1,0,0,0,0,1,90,0,0,0,0,0,0,24,24,190.0,90.0
+Nuñez,Unai Nuñez Gestoso,30/01/1997,Portugalete,Bizkaia,España,1,0,0,1,0,1,0,0,6,0,0,0,0,0,0,22,22,186.0,81.0
+García Navajas,Antonio García Navajas,08/03/1958,Posadas,Córdoba,España,1,1,1,0,0,0,0,1,90,0,0,0,0,0,0,21,21,176.0,72.0
+Alabanda,Sebastián Alabanda Fernández,31/10/1950,Posadas,Córdoba,España,1,0,0,1,0,0,1,0,9,0,0,0,0,0,0,25,25,181.0,78.0
+Juan Carlos,Juan Carlos Rodríguez Moreno,19/01/1965,Puente Castro,León,España,1,1,0,0,1,0,0,1,83,0,0,0,0,0,0,26,26,172.0,71.0
+Poli,Manuel Polinario Muñoz,12/06/1943,Puente Genil,Córdoba,España,1,1,1,0,0,0,0,1,90,0,0,0,0,0,0,24,24,166.0,61.0
+Lico,José Antonio Morante Gutiérrez,06/07/1944,Rafal,Alicante,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,27,27,170.0,64.0
+Berto,Alberto Martínez Díaz,27/10/1962,Reiriz,Lugo,España,1,0,0,1,0,1,0,0,34,0,0,0,0,0,0,28,28,170.0,60.0
+Pier,Pier Luigi Cherubino Loggi,15/10/1971,Roma,Extranjero,Italia,1,0,0,1,0,1,0,0,29,0,0,0,0,0,0,22,22,176.0,75.0
+Denis Suárez,Denis Suárez Fernández,06/01/1994,Salceda de Caselas,Pontevedra,España,1,0,0,1,0,1,0,0,45,0,0,0,0,0,0,22,22,176.0,69.0
+Luis Alberto,Luis Alberto Romero Alconchel,28/09/1992,San José del Valle,Cádiz,España,1,0,0,1,0,1,0,0,16,0,0,0,0,0,0,25,25,182.0,70.0
+Munir,Munir El Haddadi Mohamed,01/09/1995,San Lorenzo de El Escorial,Madrid,España,1,0,0,1,0,1,0,0,13,0,0,0,0,0,0,19,19,175.0,69.0
+Neme,Nemesio Martín Montejo,31/12/1939,Sanchón de la Sagrada,Salamanca,España,1,0,0,1,0,0,0,1,55,0,0,0,0,0,0,25,25,166.0,66.0
+Estella,Juan José Estella Salas,13/01/1956,Sant Feliu de Llobregat,Barcelona,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,26,26,178.0,77.0
+Santos,Eleuterio Santos Brito,09/11/1940,Santa Cruz de Tenerife,Santa Cruz de Tenerife,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,27,27,177.0,70.0
+Mingueza,Óscar Mingueza Garcia,13/05/1999,Santa Perpètua de Mogoda,Barcelona,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,22,22,184.0,75.0
+Santamaría,Francisco Santamaría Mirones,08/09/1936,Santander,Cantabria,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,30,30,176.0,80.0
+Bezerra,Heraldo Bezerra Nunes,21/04/1945,São Jerônimo,Extranjero,Brasil,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,28,28,174.0,69.0
+Fran Beltrán,Francisco José Beltrán Peinado,03/02/1999,Seseña,Toledo,España,1,0,0,1,0,1,0,0,16,0,0,0,0,0,0,22,22,170.0,66.0
+Mencía,Juan José Mencía Angulo,05/03/1923,Sestao,Bizkaia,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,27,27,172.0,68.0
+Nimo,José Ramón Nimo Maldonado,11/07/1959,Sevilla,Sevilla,España,1,1,0,0,1,0,1,0,65,0,0,0,0,0,0,24,24,177.0,74.0
+Campaña,José Ángel Gómez Campaña,31/05/1993,Sevilla,Sevilla,España,1,0,0,1,0,0,1,0,44,0,0,0,0,0,0,27,27,179.0,74.0
+Puerta,Antonio José Puerta Pérez,25/11/1984,Sevilla,Sevilla,España,1,0,0,1,0,0,0,1,38,0,0,0,0,0,0,21,21,183.0,74.0
+Sergio Rico,Sergio Rico González,01/09/1993,Sevilla,Sevilla,España,1,0,0,1,0,1,0,0,17,0,0,0,1,0,0,22,22,194.0,88.0
+Mañó,Daniel Mañó Villagrasa,27/02/1932,Sueca,Valencia,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,23,23,165.0,65.0
+Artigas,Josep Artigas Morraja,31/10/1923,Terrassa,Barcelona,España,1,1,0,0,1,1,0,0,39,0,0,0,0,0,0,25,25,177.0,66.0
+Mata,Jaime Mata Arnaiz,24/10/1988,Tres Cantos,Madrid,España,1,0,0,1,0,1,0,0,2,0,0,0,0,0,0,30,30,185.0,75.0
+Paco Llorente,Francisco Llorente Gento,21/05/1965,Valladolid,Valladolid,España,1,0,0,1,0,1,0,0,44,1,0,0,0,0,0,22,22,180.0,76.0
+Coque,Gerardo Coque Benavente,09/03/1928,Valladolid,Valladolid,España,1,1,1,0,0,1,0,0,90,1,0,0,0,0,0,24,24,179.0,73.0
+Aleix Vidal,Aleix Vidal Parreu,21/08/1989,Valls,Tarragona,España,1,1,0,0,1,1,0,0,46,0,0,0,0,0,0,25,25,177.0,70.0
+Valverde,Ernesto Valverde Tejedor,09/02/1964,Viandar de la Vera,Cáceres,España,1,0,0,1,0,1,0,0,20,0,0,0,0,0,0,26,26,169.0,61.0
+Rodilla,José Fernando Martínez Rodilla,03/03/1950,Vigo,Pontevedra,España,1,0,0,1,0,1,0,0,59,0,0,0,0,0,0,20,20,169.0,65.0
+Jiménez,Manuel Enrique Jiménez Abalo,27/10/1956,Vilagarcía de Arousa,Pontevedra,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,25,25,177.0,71.0
+Marina,Roberto Simón Marina,28/08/1961,Villanueva de la Serena,Badajoz,España,1,0,0,1,0,0,1,0,8,0,0,0,0,0,0,23,23,164.0,63.0
+Karanka,Aitor Karanka de la Hoz,18/09/1973,Vitoria-Gasteiz,Araba/Álava,España,1,1,1,0,0,1,0,0,90,0,0,0,0,0,0,21,21,181.0,79.0
+Joseíto,José Iglesias Fernández,23/12/1926,Zamora,Zamora,España,1,1,1,0,0,0,1,0,90,0,0,0,0,0,0,26,26,166.0,70.0
+Conte,Ignacio Conte Crespo,21/02/1969,Zaragoza,Zaragoza,España,1,0,0,1,0,1,0,0,30,0,0,0,0,0,0,22,22,180.0,74.0
+Camacho,Ignacio Camacho Barnola,04/05/1990,Zaragoza,Zaragoza,España,1,0,0,1,0,0,0,1,44,0,0,0,0,0,0,24,24,181.0,68.0
+Manolete,Manuel Ríos Quintanilla,26/05/1945,A Coruña,A Coruña,España,2,1,0,1,1,0,2,0,108,0,0,0,0,0,0,26,26,176.0,74.0
+Iturraspe,Ander Iturraspe Derteano,08/03/1989,Abadiño,Bizkaia,España,2,1,1,1,0,1,0,1,134,0,0,0,0,0,0,25,25,187.0,78.0
+Santi Denia,Santiago Denia Sánchez,09/03/1974,Albacete,Albacete,España,2,1,1,1,0,2,0,0,134,0,0,0,0,0,0,23,24,181.0,76.0
+Diego Capel,Diego Ángel Capel Trinidad,16/02/1988,Albox,Almería,España,2,1,0,1,1,2,0,0,116,0,0,0,0,0,0,20,20,173.0,67.0
+Pérez Payá,José Luis Pérez-Payá Soler,28/03/1928,Alcoi,Alicante,España,2,2,2,0,0,0,1,1,180,0,0,0,0,0,0,27,27,181.0,81.0
+Galán,Enrique Galán Bayarri,06/04/1946,Almàssera,Valencia,España,2,0,0,2,0,1,0,1,28,0,0,0,0,0,0,27,27,179.0,77.0
+Abel Ruiz,Abel Ruiz Ortega,28/01/2000,Almussafes,Valencia,España,2,2,2,0,0,2,0,0,180,0,0,0,0,0,0,21,21,182.0,76.0
+Castellano,Francisco Castellano Rodríguez,17/11/1944,Arucas,Las Palmas,España,2,1,0,1,1,1,1,0,80,1,0,0,0,0,0,23,23,179.0,79.0
+Urtubi,Ismael Urtubi Aróstegui,24/05/1961,Barakaldo,Bizkaia,España,2,1,0,1,1,1,0,1,97,0,0,0,0,0,0,23,23,175.0,72.0
+Sergio García,Sergio García de la Fuente,09/06/1983,Barcelona,Barcelona,España,2,1,1,1,0,2,0,0,96,0,0,0,0,0,0,24,25,176.0,69.0
+Fernando Navarro,Fernando Navarro Corbacho,25/06/1982,Barcelona,Barcelona,España,2,1,1,1,0,2,0,0,128,0,0,0,0,0,0,25,25,176.0,69.0
+Vavá,Luciano Sánchez García,28/05/1944,Béjar,Salamanca,España,2,2,2,0,0,0,1,1,180,0,0,0,0,0,0,22,24,169.0,67.0
+Gaztelu,José Agustín Aranzábal Askasibar,23/07/1946,Bergara,Gipuzkoa,España,2,1,1,1,0,2,0,0,100,0,0,0,0,0,0,23,25,169.0,70.0
+Ander Herrera,Ander Herrera Agüera,14/08/1989,Bilbao,Bizkaia,España,2,0,0,2,0,1,1,0,51,0,0,0,0,0,0,27,27,181.0,70.0
+Patxi Salinas,Francisco Salinas Fernández,17/11/1963,Bilbao,Bizkaia,España,2,1,0,1,1,0,1,1,70,0,0,0,0,0,0,24,24,185.0,77.0
+Planelles,Juan Bautista Planelles Marco,26/01/1951,Burriana,Castellón,España,2,1,0,1,1,0,1,1,111,0,0,0,0,0,0,22,22,178.0,76.0
+Mista,Miguel Ángel Ferrer Martínez,12/11/1978,Caravaca de la Cruz,Murcia,España,2,0,0,2,0,2,0,0,62,0,0,0,0,0,0,26,26,184.0,72.0
+Lesmes II,Rafael Lesmes Bobed,09/11/1926,Ceuta,Ceuta,España,2,2,2,0,0,1,0,1,180,0,0,0,0,0,0,28,31,178.0,74.0
+Armando,Armando Álvarez Álvarez,18/07/1970,Colmar,Extranjero,Francia,2,1,1,1,0,2,0,0,110,0,0,0,0,0,0,26,26,173.0,68.0
+Christiansen,Thomas Christiansen Tarín,11/03/1973,Copenhague,Extranjero,Dinamarca,2,0,0,2,0,1,1,0,76,1,0,0,0,0,0,19,19,180.0,74.0
+Guillamón,Hugo Guillamón Sanmartín,31/01/2000,Donostia/San Sebastián,Gipuzkoa,España,2,2,2,0,0,2,0,0,180,1,0,0,0,0,0,21,22,182.0,62.0
+Arza,Juan Arza Íñigo,18/06/1923,Estella,Navarra,España,2,2,2,0,0,0,1,1,180,0,0,0,0,0,0,23,28,169.0,66.0
+Zubieta,Ángel Zubieta Redondo,17/07/1918,Galdakao,Bizkaia,España,2,2,2,0,0,1,0,1,180,0,0,0,0,0,0,17,17,181.0,82.0
+Iriondo,Rafael Iriondo Aurtenetxea,24/10/1918,Gernika-Lumo,Bizkaia,España,2,2,2,0,0,0,0,2,180,1,0,0,0,0,0,27,28,171.0,67.0
+Bango,Ricardo González Bango,18/09/1968,Gijón,Asturias,España,2,1,1,1,0,1,0,1,134,0,0,0,0,1,0,21,23,183.0,79.0
+Juan Alonso,Juan Adelarpe Alonso,13/12/1927,Hondarribia,Gipuzkoa,España,2,2,2,0,0,1,1,0,180,0,0,0,3,0,0,30,31,172.0,75.0
+Osorio,Manuel Fernández Osorio,31/07/1946,Jerez de la Frontera,Cádiz,España,2,2,2,0,0,2,0,0,180,0,0,0,0,0,0,21,21,172.0,67.0
+Ziganda,José Ángel Ziganda Lakunza,01/10/1966,Larrainzar,Navarra,España,2,0,0,2,0,1,0,1,15,0,0,0,0,0,0,24,27,182.0,77.0
+Guedes,Juan Guedes Rodríguez,02/10/1942,Las Palmas de Gran Canaria,Las Palmas,España,2,2,2,0,0,1,1,0,180,0,0,0,0,0,0,25,26,184.0,78.0
+Betancort,Antonio Rodrigo Betancort Barrera,13/03/1937,Las Palmas de Gran Canaria,Las Palmas,España,2,2,2,0,0,2,0,0,180,0,0,0,1,0,0,28,28,183.0,84.0
+Lasa,Mikel Lasa Goikoetxea,09/09/1971,Legorreta,Gipuzkoa,España,2,2,1,0,1,2,0,0,156,0,0,0,0,0,0,21,21,174.0,69.0
+Juncosa,José Juncosa Bellmunt,02/02/1922,Les Borges Blanques,Lleida,España,2,2,1,0,1,1,0,1,121,0,0,0,0,0,0,26,28,170.0,65.0
+José Ignacio,José Ignacio Sáenz Marín,28/09/1973,Logroño,La Rioja,España,2,0,0,2,0,2,0,0,77,0,0,0,0,0,0,27,28,174.0,72.0
+Óscar Rodríguez,Óscar Rodríguez Arnaiz,28/06/1998,Los Navalmorales,Toledo,España,2,0,0,2,0,1,1,0,35,0,0,0,0,0,0,22,22,174.0,68.0
+Domínguez,Álvaro Domínguez Soto,16/05/1989,Madrid,Madrid,España,2,0,0,2,0,2,0,0,78,0,0,0,0,1,0,23,23,189.0,83.0
+De Tomás,Raúl de Tomás Gómez,17/10/1994,Madrid,Madrid,España,2,2,0,0,2,2,0,0,116,0,0,0,0,0,0,27,27,178.0,72.0
+Fernando,Fernando Sánchez Cipitria,12/09/1971,Madrid,Madrid,España,2,1,0,1,1,1,0,1,71,0,0,0,0,0,0,26,26,185.0,83.0
+Pedraza,Juan Carlos Pedraza Gómez,01/09/1959,Madrid,Madrid,España,2,2,0,0,2,1,1,0,160,1,0,0,0,1,0,23,23,169.0,63.0
+Macías,José Díaz Macías,20/11/1946,Madrid,Madrid,España,2,2,1,0,1,1,0,1,147,0,0,0,0,0,0,26,26,175.0,70.0
+Ricardo,Ricardo López Felipe,30/12/1971,Madrid,Madrid,España,2,0,0,2,0,1,1,0,55,0,0,0,1,0,0,29,30,188.0,87.0
+Morollón,Emilio Morollón Estébanez,23/07/1937,Madrid,Madrid,España,2,2,2,0,0,0,2,0,180,0,0,0,0,0,0,25,25,172.0,68.0
+García Remón,Mariano García Remón,30/09/1950,Madrid,Madrid,España,2,1,1,1,0,0,1,1,134,0,0,0,1,0,0,22,23,181.0,76.0
+Migueli,Miguel Ramos Vargas,12/12/1942,Málaga,Málaga,España,2,0,0,2,0,1,1,0,47,0,0,0,0,0,0,29,30,167.0,68.0
+Ramoní,Ramón Martínez Pérez,06/02/1929,Melilla,Melilla,España,2,2,2,0,0,0,1,1,180,0,0,0,0,0,0,23,23,175.0,74.0
+Javi García,Francisco Javier García Fernández,08/02/1987,Mula,Murcia,España,2,1,0,1,1,1,1,0,101,0,0,0,0,0,0,25,26,178.0,71.0
+De Andrés,Miguel de Andrés Barace,08/10/1957,Ochagavía,Navarra,España,2,1,0,1,1,1,0,1,66,0,0,0,0,0,0,26,26,178.0,75.0
+Mestre,Manuel Mestre Torres,07/01/1935,Oliva,Valencia,España,2,2,2,0,0,2,0,0,180,0,0,0,0,0,0,24,26,171.0,70.0
+Oli,Oliverio Jesús Álvarez González,02/04/1972,Oviedo,Asturias,España,2,1,1,1,0,2,0,0,93,1,0,0,0,0,0,25,25,175.0,72.0
+Muniain,Iker Muniain Goñi,19/12/1992,Pamplona,Navarra,España,2,0,0,2,0,2,0,0,49,0,0,0,0,0,0,19,26,170.0,66.0
+Melo,Francisco Delgado Melo,13/11/1943,Plasencia,Cáceres,España,2,1,1,1,0,2,0,0,95,0,0,0,0,0,0,26,26,173.0,74.0
+Mesa,Manuel Mesa Quirós,26/12/1952,San Roque,Cádiz,España,2,2,1,0,1,0,1,1,97,1,0,0,0,0,0,26,27,174.0,68.0
+Pau López,Pau López Sabata,13/12/1994,Sant Gregori,Girona,España,2,1,1,1,0,2,0,0,106,0,0,0,0,0,0,23,24,188.0,72.0
+Marquitos,Marcos Alonso Imaz,16/04/1933,Santander,Cantabria,España,2,2,2,0,0,0,0,2,180,0,0,0,0,0,0,21,27,182.0,80.0
+Juan Carlos,Juan Carlos Pérez López,14/02/1945,Santander,Cantabria,España,2,1,0,1,1,0,0,2,117,0,0,0,0,0,0,28,28,174.0,71.0
+García Soriano,Juan Antonio García Soriano,06/04/1948,Santisteban del Puerto,Jaén,España,2,0,0,2,0,1,1,0,51,0,0,0,0,0,0,26,26,172.0,69.0
+Ferreira,Francisco Ferreira Colmenero,22/05/1967,Saucelle,Salamanca,España,2,0,0,2,0,1,0,1,48,0,0,0,0,0,0,21,22,180.0,77.0
+Adrián López,Adrián López Álvarez,08/01/1988,Teverga,Asturias,España,2,0,0,2,0,2,0,0,78,1,0,0,0,0,0,24,24,180.0,76.0
+Enrique Martín,Enrique Martín Monreal Lizarraga,09/03/1956,Tiebas-Muruarte de Reta,Navarra,España,2,0,0,2,0,1,1,0,20,0,0,0,0,0,0,26,26,178.0,69.0
+Guzmán,Antonio Guzmán Núñez,02/12/1953,Torrejón de Ardoz,Madrid,España,2,1,1,1,0,0,2,0,100,0,0,0,0,0,0,24,24,174.0,72.0
+Carrete,José Carrete de Julián,05/04/1951,Turón,Asturias,España,2,2,2,0,0,2,0,0,180,0,0,0,0,0,0,26,27,167.0,66.0
+Alvarito,Álvaro Rodríguez Ros,16/07/1936,Ujo,Asturias,España,2,2,2,0,0,1,0,1,180,0,0,0,0,0,0,23,24,180.0,77.0
+Farinós,Francisco Javier Farinós Zapata,29/03/1978,València,Valencia,España,2,1,0,1,1,1,0,1,90,0,0,0,0,0,0,21,22,172.0,68.0
+Nando,Fernando Martínez Perales,31/05/1967,València,Valencia,España,2,1,0,1,1,0,1,1,76,0,0,0,0,0,0,21,25,172.0,72.0
+Pepín,José Casas Gris,16/11/1931,València,Valencia,España,2,2,2,0,0,1,0,1,180,0,0,0,2,0,0,31,32,170.0,72.0
+Abel Resino,Abel Resino Gómez,02/02/1960,Velada,Toledo,España,2,0,0,2,0,0,0,2,51,0,0,0,3,0,0,31,31,181.0,78.0
+Oubiña,Borja Oubiña Meléndez,17/05/1982,Vigo,Pontevedra,España,2,0,0,2,0,1,0,1,66,0,0,0,0,0,0,24,24,178.0,75.0
+Cuéllar,Ángel Manuel Cuéllar Llanos,13/09/1972,Villafranca de los Barros,Badajoz,España,2,0,0,2,0,1,1,0,88,0,0,0,0,0,0,22,22,170.0,70.0
+Moreno,Tomás Hernández Burillo,19/02/1930,Zaragoza,Zaragoza,España,2,2,2,0,0,1,0,1,180,0,0,0,0,0,0,23,23,166.0,63.0
+Argote,Estanislao Argote Salaberría,21/10/1956,Zarautz,Gipuzkoa,España,2,2,1,0,1,1,0,1,136,0,0,0,0,0,0,22,22,180.0,78.0
+Raúl García,Raúl García Escudero,11/07/1986,Zizur Nagusia,Navarra,España,2,2,0,0,2,0,0,2,128,0,0,0,0,1,0,28,28,184.0,83.0
+Ramón,Ramón Vázquez García,14/02/1964,Alcalá de Guadaíra,Sevilla,España,3,1,1,2,0,1,1,1,156,1,0,0,0,0,0,22,24,183.0,75.0
+Mario Suárez,Mario Suárez Mata,24/02/1987,Alcobendas,Madrid,España,3,2,1,1,1,2,0,1,179,0,0,0,0,1,0,25,28,185.0,80.0
+Hita,Juan López Hita,05/09/1944,Algeciras,Cádiz,España,3,1,1,2,0,2,1,0,178,0,0,0,0,0,0,26,27,167.0,66.0
+Biosca,Antonio Biosca Pérez,08/12/1948,Almería,Almería,España,3,2,2,1,0,2,1,0,219,0,0,0,0,0,0,29,29,173.0,73.0
+De la Red,Rubén de la Red Gutiérrez,05/06/1985,Arroyomolinos,Madrid,España,3,1,1,2,0,3,0,0,156,1,0,0,0,0,0,22,23,186.0,80.0
+Güerri,Francisco Güerri Ballarín,13/04/1959,Benasque,Huesca,España,3,2,1,1,1,1,1,1,201,0,0,0,0,0,0,24,24,176.0,74.0
+Rufete,Francisco Joaquín Pérez Rufete,20/11/1976,Benejúzar,Alicante,España,3,0,0,3,0,1,1,1,100,0,0,0,0,0,0,23,23,178.0,72.0
+Pichi Alonso,Àngel Alonso Herrera,17/12/1954,Benicarló,Castellón,España,3,0,0,3,0,0,1,2,132,0,0,0,0,0,0,24,25,178.0,69.0
+Orúe,José María Orúe Aranguren,17/03/1931,Bilbao,Bizkaia,España,3,3,3,0,0,1,2,0,270,0,0,0,0,0,0,22,25,171.0,67.0
+Belauste,José María Isidro Luis Antonio Belausteguigoitia Landaluce,15/05/1889,Bilbao,Bizkaia,España,3,3,3,0,0,3,0,0,270,1,0,0,0,0,0,31,31,193.0,95.0
+Iñaki Sáez,José Ignacio Sáez Ruiz,23/04/1943,Bilbao,Bizkaia,España,3,3,3,0,0,0,1,2,270,0,0,0,0,0,0,24,25,170.0,68.0
+Doménech,Manuel Doménech Pinto,04/12/1925,Castelló de la Plana,Castellón,España,3,3,2,0,1,1,1,1,228,0,0,0,0,0,0,29,29,174.0,71.0
+Heredia,Juan Carlos Heredia Araya,01/05/1952,Córdoba,Córdoba,Argentina,3,3,1,0,2,2,0,1,212,0,0,0,0,0,0,26,27,178.0,84.0
+Alkiza,Bittor Alkiza Fernández,26/10/1970,Donostia/San Sebastián,Gipuzkoa,España,3,3,2,0,1,2,1,0,226,1,0,0,0,1,0,27,28,172.0,70.0
+Arieta,Eneko Arieta-Araunabeña Piedra,21/08/1933,Durango,Bizkaia,España,3,3,3,0,0,1,0,2,270,2,0,0,0,0,0,21,22,175.0,74.0
+Montero,Enrique Montero Rodríguez,28/12/1954,El Puerto de Santa María,Cádiz,España,3,1,0,2,1,2,1,0,134,0,0,0,0,0,0,25,26,179.0,74.0
+Zaldúa,José Antonio Zaldúa Urdanavia,15/12/1941,Elizondo,Navarra,España,3,3,3,0,0,1,1,1,270,0,0,0,0,0,0,19,21,173.0,68.0
+Jauregui,José María Jáuregui Lagunas,15/03/1896,Getxo,Bizkaia,España,3,3,3,0,0,1,1,1,300,0,0,0,9,0,0,32,32,171.0,72.0
+Pasieguito,Bernardino Pérez Elizarán,21/05/1925,Hernani,Gipuzkoa,España,3,3,3,0,0,1,1,1,300,0,0,0,0,0,0,28,28,178.0,77.0
+Benítez,Antonio Benítez Fernández,02/06/1951,Jerez de la Frontera,Cádiz,España,3,3,0,0,3,2,1,0,200,0,0,0,0,0,0,23,26,170.0,71.0
+Toni,Antonio Jiménez Sistachs,12/10/1970,La Garriga,Barcelona,España,3,1,1,2,0,2,1,0,109,0,0,0,0,0,0,28,28,181.0,80.0
+Felipe,Juan Felipe Martín Martín,04/02/1954,La Orotava,Santa Cruz de Tenerife,España,3,1,1,2,0,1,1,1,130,0,0,0,0,0,0,24,25,176.0,71.0
+García Calvo,José Antonio García Calvo,01/04/1975,Madrid,Madrid,España,3,3,3,0,0,1,2,0,270,0,0,0,0,1,0,27,27,185.0,78.0
+Callejo,Alberto Callejo Román,08/04/1932,Madrid,Madrid,España,3,3,3,0,0,1,1,1,270,0,0,0,0,0,0,25,26,180.0,74.0
+Quique Estebaranz,Juan Enrique Estebaranz López,06/10/1965,Madrid,Madrid,España,3,0,0,3,0,3,0,0,76,0,0,0,0,0,0,27,27,172.0,73.0
+Escudero,Adrián Escudero García,24/10/1927,Madrid,Madrid,España,3,3,3,0,0,0,1,2,300,1,0,0,0,0,0,25,28,181.0,79.0
+Lardín,Jordi Lardín Cruz,04/06/1973,Manresa,Barcelona,España,3,1,1,2,0,1,1,1,132,0,0,0,0,0,0,24,25,175.0,64.0
+Clos,Francisco Javier Clos Orozco,08/08/1960,Mataró,Barcelona,España,3,2,1,1,1,1,1,1,194,1,0,0,0,1,0,24,24,182.0,80.0
+Castellanos,Ángel Castellanos Céspedes,15/11/1952,Miguelturra,Ciudad Real,España,3,3,3,0,0,2,1,0,270,0,0,0,0,0,0,21,22,180.0,78.0
+Illarramendi,Asier Illarramendi Andonegi,08/03/1990,Mutriku,Gipuzkoa,España,3,2,2,1,0,1,2,0,225,1,0,0,0,1,0,27,27,179.0,76.0
+Mario Gaspar,Mario Gaspar Pérez Martínez,24/11/1990,Novelda,Alicante,España,3,3,3,0,0,2,1,0,270,2,0,0,0,0,0,24,25,175.0,70.0
+Catanha,Henrique Guedes da Silva,06/03/1972,Recife,Extranjero,Brasil,3,0,0,3,0,1,1,1,93,0,0,0,0,1,0,28,28,175.0,73.0
+Gabri,Gabriel Francisco Garcia de la Torre,10/02/1979,Sallent,Barcelona,España,3,1,0,2,1,3,0,0,151,0,0,0,0,0,0,24,25,174.0,73.0
+Martín Domínguez,José Antonio Martín Domínguez,04/04/1964,Sant Joan Despí,Barcelona,España,3,1,0,2,1,0,1,2,156,0,0,0,0,0,0,26,27,173.0,67.0
+Aguilar,Francisco Javier Aguilar García,26/03/1949,Santander,Cantabria,España,3,2,2,1,0,1,1,1,224,1,0,0,0,0,0,22,24,172.0,67.0
+Quique Setién,Enrique Setién Solar,27/09/1958,Santander,Cantabria,España,3,2,1,1,1,2,1,0,206,0,0,0,0,0,0,27,27,183.0,76.0
+Guillamón,Fernando Guillamón Rodríguez,05/06/1927,Sevilla,Sevilla,España,3,3,3,0,0,1,1,1,270,0,0,0,0,0,0,28,28,174.0,74.0
+Villa,Juan Manuel Villa Gutiérrez,26/09/1938,Sevilla,Sevilla,España,3,3,3,0,0,2,0,1,270,0,0,0,0,0,0,25,26,180.0,73.0
+Marcet,Francisco Javier Marcet Mundo,26/11/1928,Terrassa,Barcelona,España,3,3,2,0,1,1,1,1,226,2,0,0,0,0,0,22,24,177.0,80.0
+Milla,Luis Milla Aspas,12/03/1966,Teruel,Teruel,España,3,2,1,1,1,3,0,0,190,0,0,0,0,0,0,23,23,173.0,69.0
+Esteban Vigo,Esteban Vigo Benítez,17/01/1955,Vélez-Málaga,Málaga,España,3,2,1,1,1,2,1,0,159,0,0,0,0,0,0,26,26,171.0,73.0
+Jonny Otto,Jonathan Castro Otto,03/03/1994,Vigo,Pontevedra,España,3,2,1,1,1,2,0,1,167,0,0,0,0,1,0,24,24,175.0,70.0
+Uralde,Pedro Uralde Hernáez,02/03/1958,Vitoria-Gasteiz,Araba/Álava,España,3,1,1,2,0,1,2,0,123,0,0,0,0,0,0,24,28,177.0,72.0
+Bonet,Francisco Bonet Serrano,27/06/1959,Almuñécar,Granada,España,4,4,3,0,1,3,1,0,328,0,0,0,0,2,0,23,23,183.0,78.0
+López Rekarte,Luis María López Rekarte,26/03/1962,Arrasate,Gipuzkoa,España,4,4,3,0,1,0,2,2,311,0,0,0,0,0,0,25,26,175.0,73.0
+Kortabarría,Ignacio Kortabarría Abarrategi,31/07/1950,Arrasate,Gipuzkoa,España,4,2,1,2,1,2,1,1,253,0,0,0,0,0,0,25,26,180.0,68.0
+Alconero,Pedro Alconero Artagoitia,03/09/1919,Barakaldo,Bizkaia,España,4,4,4,0,0,2,2,0,360,0,0,0,0,0,0,28,29,168.0,71.0
+Celades,Albert Celades López,29/09/1975,Barcelona,Barcelona,España,4,1,1,3,0,2,1,1,165,0,0,0,0,0,0,22,24,177.0,75.0
+Rifé,Joaquim Rifé Climent,04/02/1942,Barcelona,Barcelona,España,4,4,4,0,0,2,1,1,360,1,0,0,0,0,0,26,28,173.0,75.0
+Rojo,Juan Carlos Pérez Rojo,17/11/1959,Barcelona,Barcelona,España,4,3,3,1,0,2,1,1,290,0,0,0,0,0,0,25,25,174.0,71.0
+Bellerín,Héctor Bellerín Moruno,19/03/1995,Barcelona,Barcelona,España,4,3,3,1,0,2,1,1,315,0,0,0,0,0,0,21,25,177.0,74.0
+Ansu Fati,Anssumane Fati Vieira,31/10/2002,Bisáu,Extranjero,Guinea-Bisáu,4,3,1,1,2,2,1,1,250,1,0,0,0,0,0,17,17,178.0,66.0
+Puskás,Ferenc Purczeld Bíró,02/04/1927,Budapest,Extranjero,Hungría,4,4,4,0,0,2,0,2,360,0,0,0,0,0,0,34,35,172.0,75.0
+Canós,Juan Manuel Canós Ferrer,01/01/1944,Burriana,Castellón,España,4,4,4,0,0,1,1,2,360,0,0,0,0,0,0,24,24,168.0,64.0
+Juan José,Juan José Jiménez Collar,29/07/1957,Cádiz,Cádiz,España,4,4,4,0,0,3,1,0,360,0,0,0,0,1,0,25,25,177.0,73.0
+Capi,Jesús Capitán Prada,26/03/1977,Camas,Sevilla,España,4,1,1,3,0,2,1,1,169,0,0,0,0,0,0,25,25,182.0,75.0
+Jesús Martínez,Jesús Martínez Rivadeneira,07/12/1947,Cangas de Foz,Lugo,España,4,4,2,0,2,2,1,1,273,0,0,0,0,0,0,25,26,178.0,78.0
+Pablo Hernández,Pablo Hernández Domínguez,11/04/1985,Castelló de la Plana,Castellón,España,4,0,0,4,0,4,0,0,108,1,0,0,0,0,0,24,25,173.0,64.0
+Parejo,Daniel Parejo Muñoz,16/04/1989,Coslada,Madrid,España,4,3,2,1,1,4,0,0,264,0,0,0,0,0,0,28,30,180.0,75.0
+Odriozola,Álvaro Odriozola Arzallus,14/12/1995,Donostia/San Sebastián,Gipuzkoa,España,4,4,2,0,2,3,1,0,295,1,0,0,0,0,0,21,22,175.0,66.0
+Iván Campo,Iván Campo Ramos,21/02/1974,Donostia/San Sebastián,Gipuzkoa,España,4,3,2,1,1,2,0,2,299,0,0,0,0,1,0,24,26,185.0,81.0
+Orbaiz,Pablo Orbaiz Lesaka,06/02/1979,Elcano,Navarra,España,4,2,0,2,2,3,1,0,172,0,0,0,0,0,0,23,26,178.0,76.0
+Echeberria,Luis María Echeberria Igartua,24/03/1940,Erandio,Bizkaia,España,4,4,4,0,0,0,3,1,360,0,0,0,0,0,0,22,23,175.0,73.0
+Careaga,Domingo Careaga Achalandabaso,03/08/1897,Getxo,Bizkaia,España,4,4,4,0,0,4,0,0,360,0,0,0,0,0,0,24,25,166.0,68.0
+Teruel,Ricardo Teruel García,25/02/1917,Gijón,Asturias,España,4,4,4,0,0,2,1,1,360,0,0,0,0,0,0,24,25,169.0,72.0
+Beñat,Beñat Etxebarria Urkiaga,19/02/1987,Igorre,Bizkaia,España,4,3,3,1,0,4,0,0,315,0,0,0,0,0,0,25,25,176.0,75.0
+Bryan Gil,Bryan Gil Salvatierra,11/02/2001,L'Hospitalet de Llobregat,Barcelona,España,4,2,1,2,1,3,1,0,177,0,0,0,0,0,0,20,20,175.0,69.0
+Fonseca,Gregorio Fonseca Recio,26/11/1965,La Seca,Valladolid,España,4,4,2,0,2,2,2,0,301,1,0,0,0,0,0,26,26,180.0,75.0
+Yéremi Pino,Yéremi Jesús Pino Santos,20/10/2002,Las Palmas de Gran Canaria,Las Palmas,España,4,1,1,3,0,3,0,1,178,1,0,0,0,1,0,19,18,172.0,65.0
+Vidal,José María Vidal Bravo,06/05/1935,Madrid,Madrid,España,4,2,2,2,0,4,0,0,268,0,0,0,0,0,0,25,26,179.0,78.0
+Quique Ramos,Enrique Ramos González,07/03/1956,Madrid,Madrid,España,4,1,1,3,0,2,1,1,199,0,0,0,0,0,0,24,29,170.0,67.0
+Téllez,Óscar Téllez Gómez,02/04/1975,Madrid,Madrid,España,4,1,1,3,0,3,1,0,203,0,0,0,0,0,0,26,26,186.0,84.0
+Arteche,Juan Carlos Arteche Gómez,11/04/1957,Maliaño,Cantabria,España,4,4,4,0,0,2,1,1,360,1,0,0,0,1,0,29,29,188.0,84.0
+Ablanedo II,Juan Carlos Ablanedo Iglesias,02/09/1963,Mieres,Asturias,España,4,0,0,4,0,2,1,1,67,0,0,0,2,0,0,23,27,175.0,73.0
+Brais Méndez,Brais Méndez Portela,07/01/1997,Mos,Pontevedra,España,4,0,0,4,0,3,0,1,54,1,0,0,0,1,0,21,24,187.0,76.0
+Marañón,Rafael Carlos Marañón González,23/06/1948,Olite,Navarra,España,4,2,1,2,1,2,2,0,224,1,0,0,0,0,0,28,29,174.0,70.0
+Luis Manuel,Luis Manuel Arias Vega,29/03/1967,Oviedo,Asturias,España,4,3,3,1,0,2,2,0,297,0,0,0,0,0,0,22,24,181.0,77.0
+Seguer,José Seguer Sans,06/05/1923,Parets del Vallès,Barcelona,España,4,4,4,0,0,1,2,1,360,0,0,0,0,0,0,29,29,170.0,69.0
+Deulofeu,Gerard Deulofeu Lázaro,13/03/1994,Riudarenes,Girona,España,4,0,0,4,0,3,1,0,104,1,0,0,0,0,0,20,23,177.0,73.0
+Geli,Delfí Geli Roura,22/04/1969,Salt,Girona,España,4,1,0,3,1,1,3,0,178,0,0,0,0,0,0,22,23,179.0,72.0
+Aldana,Adolfo Aldana Torres,05/01/1966,San Roque,Cádiz,España,4,3,2,1,1,3,0,1,258,1,0,0,0,0,0,27,28,188.0,84.0
+Rosendo Hernández,Rosendo Hernández González,11/03/1922,Santa Cruz de La Palma,Santa Cruz de Tenerife,España,4,4,3,0,1,1,1,2,316,0,0,0,0,0,0,27,28,167.0,72.0
+Martín Marrero,Martín Marrero de la Cruz,04/09/1945,Santa Cruz de Tenerife,Santa Cruz de Tenerife,España,4,4,3,0,1,1,1,2,304,0,0,0,0,0,0,23,23,170.0,70.0
+Álvaro Cervera,Álvaro Cervera Díaz,20/09/1965,Santa Isabel,Fernando Poo,Guinea Ecuatorial,4,0,0,4,0,2,1,1,100,0,0,0,0,0,0,25,27,175.0,72.0
+Veloso,José Luis Fidalgo Veloso,23/03/1937,Santiago de Compostela,A Coruña,España,4,4,4,0,0,1,1,2,360,3,0,0,0,0,0,25,26,167.0,68.0
+Alberto Moreno,Alberto Moreno Pérez,05/07/1992,Sevilla,Sevilla,España,4,3,3,1,0,3,1,0,315,0,0,0,0,0,0,21,25,171.0,65.0
+José Mari,José María Romero Poyón,10/12/1978,Sevilla,Sevilla,España,4,1,0,3,1,4,0,0,115,1,0,0,0,0,0,22,24,183.0,78.0
+Antúnez,Francisco Antúnez Espada,01/11/1922,Sevilla,Sevilla,España,4,4,4,0,0,4,0,0,360,0,0,0,0,0,0,26,28,176.0,72.0
+José Luis,José Luis López Peinado,21/05/1943,Tetuán,Extranjero,Marruecos,4,4,4,0,0,2,2,0,360,0,0,0,0,0,0,29,30,173.0,72.0
+Ramos,José Antonio Ramos Huete,03/04/1951,Tetuán,Extranjero,Marruecos,4,1,1,3,0,3,0,1,193,0,0,0,0,0,0,24,26,175.0,70.0
+Vidagany,Francisco Vidagany Hernández,19/10/1940,València,Valencia,España,4,4,4,0,0,2,1,1,360,0,0,0,0,0,0,28,28,171.0,70.0
+Javi Navarro,Francisco Javier Vicente Navarro,06/02/1974,València,Valencia,España,4,3,3,1,0,3,0,1,314,0,0,0,0,0,0,32,33,180.0,77.0
+Salva,Salvador Ballesta Vialcho,22/05/1975,Zaragoza,Zaragoza,España,4,2,1,2,1,3,1,0,170,0,0,0,0,0,0,24,28,183.0,75.0
+Curro Torres,Cristóbal Emilio Torres Ruiz,27/12/1976,Ahlen,Extranjero,Alemania,5,2,1,3,1,3,1,1,213,0,0,0,0,0,0,24,25,180.0,76.0
+Moya,Gabriel Moya Sanz,20/03/1966,Alcalá de Henares,Madrid,España,5,1,0,4,1,2,1,2,175,1,0,0,0,0,0,23,25,175.0,73.0
+Torres,Antonio Torres García,29/07/1943,Balaguer,Lleida,España,5,4,4,1,0,2,2,1,416,0,0,0,0,0,0,25,25,178.0,75.0
+Antón,Antonio Manuel Martínez Morales,19/10/1944,Bilbao,Bizkaia,España,5,4,2,1,2,1,3,1,325,0,0,0,0,0,0,24,27,180.0,77.0
+Suso,Jesús Joaquín Fernández Sáenz de la Torre,19/11/1993,Cádiz,Cádiz,España,5,4,0,1,4,3,1,1,268,0,0,0,0,0,0,23,25,176.0,69.0
+Dani,Daniel García Lara,22/12/1974,Cerdanyola del Vallès,Barcelona,España,5,2,1,3,1,3,1,1,246,1,0,0,0,0,0,23,25,183.0,73.0
+Reina,Miguel Reina Santos,24/01/1946,Córdoba,Córdoba,España,5,5,4,0,1,3,1,1,406,0,0,1,3,0,0,23,27,179.0,82.0
+Urruti,Francisco Javier González Urruticoechea,17/02/1952,Donostia/San Sebastián,Gipuzkoa,España,5,1,1,4,0,1,1,3,266,0,0,0,6,0,0,26,28,182.0,80.0
+Velasco,Juan Velasco Damas,17/05/1977,Dos Hermanas,Sevilla,España,5,5,4,0,1,3,1,1,406,0,0,0,0,1,0,22,23,179.0,75.0
+Ansola,Fernando Ansola San Martín,27/01/1940,Elgoibar,Gipuzkoa,España,5,5,5,0,0,2,1,2,450,0,0,0,0,0,0,25,28,180.0,83.0
+Navarro,Joaquín Navarro Perona,02/08/1921,Gavà,Barcelona,España,5,5,4,0,1,2,1,2,385,0,0,0,0,0,0,31,31,165.0,67.0
+Yermo,José María Yermo Solaegui,21/06/1903,Getxo,Bizkaia,España,5,5,5,0,0,2,1,2,480,5,0,0,0,0,0,23,24,175.0,75.0
+Marcelino,Marcelino Elena Sierra,26/09/1971,Gijón,Asturias,España,5,5,5,0,0,4,1,0,450,0,0,0,0,1,0,27,27,188.0,84.0
+Juanele,Juan Castaño Quirós,10/04/1971,Gijón,Asturias,España,5,0,0,5,0,2,2,1,196,2,0,0,0,0,0,22,23,175.0,70.0
+Patricio,Patricio Arabolaza Aramburu,17/03/1893,Irun,Gipuzkoa,España,5,5,5,0,0,4,0,1,450,1,0,0,0,0,0,27,28,178.0,85.0
+Pardeza,Miguel Pardeza Pichardo,08/02/1965,La Palma del Condado,Huelva,España,5,0,0,5,0,3,1,1,96,0,0,0,0,0,0,24,25,165.0,70.0
+Germán,Germán Dévora Ceballos,16/11/1943,Las Palmas de Gran Canaria,Las Palmas,España,5,3,2,2,1,2,3,0,318,0,0,0,0,0,0,24,28,178.0,81.0
+Ángel,Ángel Domingo López Ruano,10/03/1981,Las Palmas de Gran Canaria,Las Palmas,España,5,3,2,2,2,4,0,1,326,0,0,0,0,3,0,25,26,180.0,71.0
+Hermoso,Mario Hermoso Canseco,18/06/1995,Madrid,Madrid,España,5,4,4,1,0,5,0,0,366,0,0,0,0,0,0,23,24,184.0,75.0
+Roberto Martínez,Roberto Juan Martínez Martínez,25/09/1945,Mendoza,Extranjero,Argentina,5,4,3,1,1,4,1,0,356,2,0,0,0,0,0,27,29,187.0,83.0
+Lozano,Diego Lozano Rodríguez,08/02/1924,Montijo,Badajoz,España,5,5,5,0,0,2,2,1,450,0,0,0,0,0,0,24,25,180.0,76.0
+Callejón,José María Callejón Bueno,11/02/1987,Motril,Granada,España,5,0,0,5,0,3,1,1,103,0,0,0,0,0,0,27,30,179.0,73.0
+Morán,Enrique Morán Blanco,15/10/1953,Pola de Lena,Asturias,España,5,3,1,2,2,0,2,3,316,0,0,0,0,0,0,25,27,177.0,74.0
+Juanito,Juan Francisco Rodríguez Herrera,10/05/1965,Santa Cruz de Tenerife,Santa Cruz de Tenerife,España,5,4,4,1,0,2,0,3,388,1,0,0,0,1,0,24,25,183.0,82.0
+De la Peña,Iván de la Peña López,06/05/1976,Santander,Cantabria,España,5,5,2,0,3,4,1,0,376,0,0,0,0,0,0,28,29,169.0,69.0
+Javi Moreno,Javier Moreno Valera,10/09/1974,Silla,Valencia,España,5,2,2,3,0,3,1,1,252,1,0,0,0,0,0,26,26,180.0,80.0
+Bustillo,Miguel Ángel Bustillo Lafoz,09/09/1946,Zaragoza,Zaragoza,España,5,4,4,1,0,2,2,1,404,2,0,0,0,0,0,21,22,174.0,73.0
+Guillot,Vicente Guillot Fabián,15/07/1941,Aldaia,Valencia,España,6,6,6,0,0,1,2,3,540,4,0,0,0,0,0,21,23,167.0,69.0
+Felipe,Felipe Miñambres Fernández,29/04/1965,Astorga,León,España,6,4,3,2,1,3,3,0,387,2,0,0,0,0,0,24,29,174.0,68.0
+Araquistain,José Araquistain Arrieta,04/03/1937,Azkoitia,Gipuzkoa,España,6,4,4,2,0,3,1,2,409,0,0,0,6,0,0,23,25,180.0,75.0
+Bosch,Andrés Bosch Pujol,22/02/1931,Barcelona,Barcelona,España,6,6,6,0,0,3,1,2,540,0,0,0,0,0,0,22,24,175.0,70.0
+Fornals,Pablo Fornals Malla,22/02/1996,Castelló de la Plana,Castellón,España,6,1,0,5,1,5,0,1,153,1,0,0,0,0,0,20,25,178.0,67.0
+Reguilón,Sergio Reguilón Rodríguez,16/12/1996,Collado Villalba,Madrid,España,6,5,3,1,2,2,3,1,463,0,0,0,0,2,0,23,24,178.0,68.0
+Higuera,Francisco Higuera Fernández,30/01/1965,Escurial,Cáceres,España,6,3,2,3,1,3,2,1,422,1,0,0,0,1,0,26,30,173.0,70.0
+Artetxe,José Luis Artetxe Muguire,28/06/1930,Getxo,Bizkaia,España,6,4,2,2,2,2,2,2,371,1,0,0,0,0,0,23,29,174.0,70.0
+Gerard,Gerard López Segú,12/03/1979,Granollers,Barcelona,España,6,3,0,3,3,3,1,2,250,2,0,0,0,0,0,21,21,185.0,77.0
+Irureta,Javier Iruretagoyena Amiano,01/04/1948,Irun,Gipuzkoa,España,6,4,2,2,2,2,3,1,412,0,0,0,0,0,0,24,27,176.0,70.0
+Asensi,Vicente Asensi Albentosa,28/01/1919,L'Alcúdia de Crespins,Valencia,España,6,6,6,0,0,4,1,1,540,0,0,0,0,0,0,26,31,173.0,74.0
+Campos,Francisco Campos Salamanca,08/03/1916,Las Palmas de Gran Canaria,Las Palmas,España,6,6,6,0,0,3,2,1,540,5,1,0,0,0,0,24,26,181.0,80.0
+De la Cruz,Jesús Antonio de la Cruz Gallego,07/05/1947,León,León,España,6,5,5,1,0,2,3,1,473,0,0,0,0,0,0,24,31,171.0,67.0
+Gavi,Pablo Martín Páez Gavira,05/08/2004,Los Palacios y Villafranca,Sevilla,España,6,5,0,1,5,5,0,1,399,0,0,0,0,0,0,17,17,173.0,70.0
+Claudio,Claudio Barragán Escobar,10/04/1964,Manises,Valencia,España,6,5,1,1,4,4,2,0,360,0,0,0,0,1,0,28,29,177.0,75.0
+José María,José María García La Villa,23/05/1942,Pola de Siero,Asturias,España,6,6,6,0,0,3,1,2,540,1,0,0,0,0,0,24,25,174.0,73.0
+Cristóbal,Cristóbal Parralo Aguilera,21/08/1967,Priego de Córdoba,Córdoba,España,6,3,3,3,0,3,1,2,389,1,0,0,0,1,0,24,25,178.0,78.0
+Salva,Salvador García Puig,04/03/1961,Sant Adrià de Besòs,Barcelona,España,6,2,0,4,2,2,2,2,318,0,0,0,0,1,0,22,23,181.0,77.0
+Serna,Ricardo Jesús Serna Orozco,21/01/1964,Sevilla,Sevilla,España,6,5,5,1,0,4,0,2,475,0,0,0,0,0,0,24,26,184.0,77.0
+Carlos,Carlos Antonio Muñoz Cobo,25/08/1961,Úbeda,Jaén,España,6,5,2,1,3,3,1,2,424,6,0,0,0,0,0,29,29,175.0,72.0
+Carlos Soler,Carlos Soler Barragán,02/01/1997,València,Valencia,España,6,5,1,1,4,5,0,1,400,2,0,0,0,0,0,25,24,180.0,76.0
+Celayeta,Genaro Celayeta San Sebastián,09/11/1954,Vera de Bidasoa,Navarra,España,6,6,4,0,2,1,3,2,452,0,0,0,0,0,0,25,26,176.0,72.0
+Vicente,José Vicente Train,19/12/1931,Barcelona,Barcelona,España,7,7,6,0,1,3,2,2,586,0,0,0,9,0,0,29,31,181.0,75.0
+Iraragorri,José Iraragorri Ealo,16/03/1912,Basauri,Bizkaia,España,7,6,6,1,0,2,3,2,643,1,1,0,0,0,0,19,23,178.0,75.0
+Buyo,Francisco Buyo Sánchez,13/01/1958,Betanzos,A Coruña,España,7,2,2,5,0,4,2,1,335,0,0,0,2,0,0,25,34,179.0,77.0
+Parra,José Parra Martínez,20/08/1925,Blanes,Girona,España,7,7,7,0,0,2,3,2,630,0,0,0,0,0,0,24,25,174.0,77.0
+Santisteban,Juan Santisteban Troyano,08/12/1936,Coria del Río,Sevilla,España,7,7,7,0,0,4,2,1,630,0,0,0,0,0,0,20,22,174.0,68.0
+Solsona,Daniel Solsona Puig,18/01/1952,Cornellà de Llobregat,Barcelona,España,7,4,4,3,0,2,2,3,471,0,0,0,0,0,0,21,29,169.0,67.0
+Arieta II,Antón Arieta-Araunabeña Piedra,06/01/1946,Durango,Bizkaia,España,7,5,3,2,2,5,2,0,406,3,0,0,0,0,0,24,26,174.0,73.0
+Marcos Alonso,Marcos Alonso Mendoza,28/12/1990,Madrid,Madrid,España,7,5,3,2,2,5,0,2,463,0,0,0,0,0,0,27,30,189.0,85.0
+Aguilera,Carlos Aguilera Martín,22/05/1969,Madrid,Madrid,España,7,6,3,1,3,4,2,1,502,0,0,0,0,1,0,28,29,174.0,76.0
+Miguel Muñoz,Miguel Muñoz Mozún,19/01/1922,Madrid,Madrid,España,7,7,7,0,0,3,3,1,630,0,0,0,0,0,0,26,33,165.0,70.0
+Luis García,Luis García Fernández,06/02/1981,Oviedo,Asturias,España,7,2,0,5,2,5,2,0,226,0,0,0,0,0,0,26,27,180.0,68.0
+Zabalza,Pedro María Zabalza Inda,13/04/1944,Pamplona,Navarra,España,7,6,5,1,1,3,3,1,540,0,0,0,0,0,0,24,25,178.0,75.0
+Rafa Paz,Rafael Paz Marín,02/08/1965,Puebla de Don Fadrique,Granada,España,7,2,0,5,2,4,1,2,243,0,0,0,0,0,0,24,25,180.0,72.0
+Molowny,Luis Molowny Arbelo,12/05/1925,Santa Cruz de Tenerife,Santa Cruz de Tenerife,España,7,7,6,0,1,2,4,1,580,2,0,0,0,0,0,24,29,167.0,70.0
+Quino,Joaquín Sierra Vallejo,06/09/1945,Sevilla,Sevilla,España,7,6,5,1,1,4,3,0,556,3,0,0,0,0,0,24,27,179.0,75.0
+Koldo Aguirre,Koldo Aguirre Bidaurrazaga,27/04/1939,Sondika,Bizkaia,España,7,6,6,1,0,4,2,1,584,0,0,0,0,0,0,21,26,174.0,75.0
+Maguregui,José María Maguregui Ibargutxi,16/03/1934,Ugao-Miraballes,Bizkaia,España,7,7,7,0,0,3,2,2,630,1,0,0,0,0,0,21,23,172.0,70.0
+Iraola,Andoni Iraola Sagarna,22/06/1982,Usurbil,Gipuzkoa,España,7,4,4,3,0,6,0,1,442,0,0,0,0,1,0,26,29,182.0,74.0
+San José,Mikel San José Domínguez,30/05/1989,Villava,Navarra,España,7,5,3,2,2,3,1,3,493,0,0,0,0,2,0,25,27,188.0,78.0
+Eulogio Martínez,Eulogio Martínez Ramiro,11/03/1935,Asunción,Extranjero,Paraguay,8,5,4,3,1,6,0,2,550,6,0,0,0,0,0,24,27,174.0,77.0
+Bosch,Crisanto Bosch Espín,26/12/1907,Barcelona,Barcelona,España,8,8,7,0,0,5,1,2,710,1,0,0,0,0,0,21,26,175.0,65.0
+Adama,Adama Traoré Diarra,25/01/1996,Barcelona,Barcelona,España,8,1,1,7,0,3,3,2,271,0,0,0,0,0,0,25,25,178.0,86.0
+Tejada,Justo Tejada Martínez,06/01/1933,Barcelona,Barcelona,España,8,7,6,1,1,7,1,0,601,4,0,0,0,0,0,25,28,171.0,68.0
+Zárraga,José María Zárraga Martín,15/08/1930,Getxo,Bizkaia,España,8,8,8,0,0,5,2,1,720,0,0,0,0,0,0,24,28,170.0,64.0
+Nando,Fernando González Balenciaga,01/02/1921,Getxo,Bizkaia,España,8,8,7,0,0,3,3,2,714,0,0,0,0,0,0,25,30,175.0,67.0
+Fusté,Josep Maria Fusté Blanch,15/04/1941,Linyola,Lleida,España,8,6,6,2,0,5,0,3,658,3,0,0,0,0,0,22,28,175.0,74.0
+Víctor,Víctor Sánchez del Amo,23/02/1976,Madrid,Madrid,España,8,5,0,3,5,3,3,2,403,0,0,0,0,1,0,24,28,182.0,74.0
+Mateos,Enrique Mateos Mancebo,15/07/1934,Madrid,Madrid,España,8,6,5,2,1,5,0,3,576,3,0,0,0,0,0,22,26,167.0,64.0
+Llorente,Diego Javier Llorente Ríos,16/08/1993,Madrid,Madrid,España,8,4,2,4,1,6,2,0,395,0,0,0,0,1,1,22,27,186.0,75.0
+Gonzalvo II,Josep Gonzalvo Falcón,16/01/1920,Mollet del Vallès,Barcelona,España,8,8,8,0,0,5,2,1,720,0,0,0,0,0,0,28,30,172.0,66.0
+Nando,Fernando Muñoz García,30/10/1967,Sevilla,Sevilla,España,8,7,6,1,1,3,1,4,630,0,0,0,0,2,0,22,24,187.0,84.0
+Pachín,Enrique Pérez Díaz,28/12/1938,Torrelavega,Cantabria,España,8,8,8,0,0,5,2,1,720,0,0,0,0,0,0,21,24,176.0,74.0
+Fernando,Fernando Gómez Colomer,11/09/1965,València,Valencia,España,8,3,3,5,0,6,2,0,390,2,0,0,0,0,0,24,26,179.0,75.0
+Cardeñosa,Julio Cardeñosa Rodríguez,27/10/1949,Valladolid,Valladolid,España,8,8,6,0,2,4,2,2,632,0,0,0,0,2,0,28,30,170.0,65.0
+Quincoces,Juan Carlos Díaz Quincoces,26/01/1933,Vitoria-Gasteiz,Araba/Álava,España,8,8,8,0,0,5,2,1,720,0,0,0,0,0,0,24,26,182.0,76.0
+Valdez,Óscar Rubén Valdez Ferrero,25/07/1946,Buenos Aires,Extranjero,Argentina,9,9,9,0,0,4,2,3,810,5,0,0,0,0,0,25,27,170.0,69.0
+Lucas Vázquez,Lucas Vázquez Iglesias,01/07/1991,Curtis,A Coruña,España,9,2,0,7,2,4,3,2,300,0,0,0,0,0,0,24,26,173.0,70.0
+Soler,Miquel Soler Sarasols,16/03/1965,Hostalets d'en Bas,Girona,España,9,5,4,4,1,2,2,5,597,0,0,0,0,0,0,22,26,180.0,70.0
+Voro,Salvador González Marco,09/10/1963,L'Alcúdia,Valencia,España,9,7,5,2,2,6,2,1,619,0,0,0,0,1,0,30,31,182.0,80.0
+Otero,Jorge Otero Bouzas,28/01/1969,Nigrán,Pontevedra,España,9,6,5,3,1,4,3,2,600,0,0,0,0,2,0,24,27,175.0,70.0
+Gerardo,Gerardo Miranda Concepción,16/11/1956,Nouadhibou,Extranjero,Mauritania,9,9,9,0,0,5,2,2,810,0,0,0,0,0,0,24,28,178.0,72.0
+Paquito,Francisco García Gómez,14/02/1938,Oviedo,Asturias,España,9,9,9,0,0,3,5,1,810,0,0,0,0,0,0,24,29,181.0,76.0
+Uriarte,Fidel Uriarte Macho,01/03/1945,Sestao,Bizkaia,España,9,8,6,1,2,7,1,1,638,1,0,0,0,0,0,22,27,175.0,74.0
+Cundi,Secundino Suárez Vázquez,13/04/1955,Sotrondio,Asturias,España,9,7,7,2,0,4,1,4,705,0,0,0,0,0,0,23,26,170.0,74.0
+Molina,José Francisco Molina Jiménez,08/08/1970,València,Valencia,España,9,7,4,2,3,3,4,2,583,0,0,0,3,1,0,25,29,185.0,89.0
+Igoa,Silvestre Igoa Garciandía,05/09/1920,Añorga,Gipuzkoa,España,10,9,8,1,1,6,3,1,791,7,0,0,0,0,0,27,29,173.0,73.0
+Bruno Soriano,Bruno Soriano Llido,12/06/1984,Artana,Castellón,España,10,5,3,5,2,7,1,2,580,0,0,0,0,0,0,26,32,179.0,74.0
+Del Horno,Asier del Horno Cosgaya,19/01/1981,Barakaldo,Bizkaia,España,10,10,8,0,2,7,3,0,821,2,0,0,0,1,0,23,24,183.0,72.0
+Toni Muñoz,Antonio Muñoz Gómez,04/02/1968,Córdoba,Córdoba,España,10,9,6,1,2,6,3,1,777,2,0,0,0,1,1,24,25,175.0,74.0
+Romero,Enrique Fernández Romero,23/06/1971,Jerez de la Frontera,Cádiz,España,10,6,6,4,0,6,3,1,640,0,0,0,0,1,0,28,33,183.0,79.0
+Sadurní,Salvador Sadurní Urpí,03/04/1941,L'Arboç,Tarragona,España,10,9,8,1,1,3,4,3,810,0,0,0,8,0,0,21,28,180.0,87.0
+Velázquez,Manuel Velázquez Villaverde,24/01/1943,Madrid,Madrid,España,10,9,8,1,1,4,3,3,812,2,0,0,0,0,0,24,32,175.0,75.0
+Eladio,Eladio Silvestre Graells,18/11/1940,Sabadell,Barcelona,España,10,10,9,0,0,4,4,2,873,0,0,0,0,0,1,25,29,179.0,80.0
+Canales,Sergio Canales Madrazo,16/02/1991,Santander,Cantabria,España,10,6,1,4,5,5,4,1,447,1,0,0,0,0,0,28,30,176.0,70.0
+Sanchis,Manuel Sanchis Martínez,26/03/1938,Alberic,Valencia,España,11,11,11,0,0,3,3,5,990,1,0,0,0,0,0,27,29,171.0,67.0
+Giner,Fernando Giner Gil,31/12/1964,Alboraia,Valencia,España,11,10,10,1,0,7,2,2,944,0,0,0,0,3,0,26,28,182.0,78.0
+Sergio,Sergio González Soriano,10/11/1976,Barcelona,Barcelona,España,11,2,1,9,1,7,2,2,370,0,0,0,0,0,0,24,28,182.0,77.0
+Roberto Ríos,Roberto Ríos Patus,08/10/1971,Bilbao,Bizkaia,España,11,4,3,7,1,7,3,1,501,0,0,0,0,2,0,25,26,194.0,84.0
+Bernat,Juan Bernat Velasco,01/03/1993,Cullera,Valencia,España,11,8,6,3,2,7,2,2,720,1,0,0,0,0,0,21,26,177.0,67.0
+Campanal II,Marcelino Vaquero González del Río,13/02/1932,Gijón,Asturias,España,11,10,10,1,0,4,4,3,995,0,0,0,0,0,0,20,25,177.0,72.0
+Luis Aragonés,Luis Aragonés Suárez,28/07/1938,Hortaleza,Madrid,España,11,10,7,1,3,7,4,0,786,3,0,0,0,0,0,26,33,180.0,73.0
+Biosca,Gustavo Biosca Pagés,29/02/1928,L'Hospitalet de Llobregat,Barcelona,España,11,11,11,0,0,3,5,3,1020,0,0,0,0,0,0,23,26,174.0,69.0
+López,Juan Manuel López Martínez,03/09/1969,Madrid,Madrid,España,11,7,6,4,1,2,9,0,748,0,0,1,0,2,1,23,27,186.0,79.0
+Kepa,Kepa Arrizabalaga Revuelta,03/10/1994,Ondarroa,Bizkaia,España,11,9,8,2,1,8,3,0,868,0,0,0,4,2,0,23,26,186.0,89.0
+Angulo,Miguel Ángel Angulo Valderrey,23/06/1977,Oviedo,Asturias,España,11,6,1,5,5,8,1,2,496,0,0,0,0,0,0,27,30,180.0,74.0
+Merino,Mikel Merino Zazón,22/06/1996,Pamplona,Navarra,España,11,4,2,7,2,6,3,2,456,0,0,0,0,1,0,24,25,189.0,83.0
+Juanfran,Juan Francisco García García,15/07/1976,Rafelbunyol,Valencia,España,11,9,7,2,2,6,3,2,861,0,0,0,0,1,0,23,26,183.0,78.0
+Sergi Roberto,Sergi Roberto Carnicer,07/02/1992,Reus,Tarragona,España,11,8,7,3,1,7,3,1,712,1,0,0,0,0,0,24,29,178.0,68.0
+Venancio,Venancio Pérez García,22/04/1921,Sestao,Bizkaia,España,11,10,10,1,0,5,4,2,974,4,0,0,0,0,0,28,32,181.0,80.0
+Pernía,Mariano Andrés Pernía Molina,04/05/1977,Tandil,Extranjero,Argentina,11,11,9,0,2,7,3,1,903,1,0,0,0,1,0,29,30,177.0,77.0
+Dani Ceballos,Daniel Ceballos Fernández,07/08/1996,Utrera,Sevilla,España,11,9,4,2,5,5,3,3,760,1,0,0,0,4,0,22,24,179.0,71.0
+Vallana,Pedro Vicente Saturnino Vallana Jeanguenat,29/11/1897,Getxo,Bizkaia,España,12,12,12,0,0,8,1,3,1080,0,0,1,0,0,0,22,30,173.0,76.0
+Alonso,Gabriel Alonso Aristiaguirre,09/11/1923,Hondarribia,Gipuzkoa,España,12,12,12,0,0,5,5,2,1080,0,0,0,0,0,0,24,28,167.0,68.0
+Górriz,Alberto Górriz Echarte,16/02/1958,Irun,Gipuzkoa,España,12,8,8,4,0,8,1,3,831,1,0,0,0,0,0,30,32,184.0,79.0
+Vitolo,Víctor Machín Pérez,02/11/1989,Las Palmas de Gran Canaria,Las Palmas,España,12,7,0,5,7,7,4,1,674,4,0,0,0,2,0,25,28,185.0,80.0
+César,César Rodríguez Álvarez,06/07/1920,León,León,España,12,10,10,2,0,5,4,3,988,6,2,0,0,0,0,24,32,172.0,68.0
+Solozábal,Roberto Solozábal Villanueva,15/09/1969,Madrid,Madrid,España,12,12,9,0,3,5,4,3,948,0,0,0,0,0,0,21,23,180.0,82.0
+César,César Martín Villar,03/04/1977,Oviedo,Asturias,España,12,6,5,6,1,9,2,1,723,3,0,0,0,1,0,22,27,185.0,81.0
+Donato,Donato Gama da Silva,30/12/1962,Río de Janeiro,Extranjero,Brasil,12,9,7,3,2,6,6,0,849,3,0,0,0,1,0,31,33,178.0,80.0
+Rubén Cano,Rubén Andrés Cano Martínez,05/02/1951,San Rafael,Extranjero,Argentina,12,8,5,4,3,7,3,2,706,4,0,0,0,2,0,26,28,182.0,77.0
+Pedri,Pedro González López,25/11/2002,Tegueste,Santa Cruz de Tenerife,España,12,9,7,3,2,6,6,0,942,0,0,1,0,0,0,18,18,174.0,60.0
+Soldado,Roberto Soldado Rillo,27/05/1985,València,Valencia,España,12,5,2,7,3,11,1,0,585,7,0,0,0,0,0,22,28,179.0,81.0
+De Pedro,Francisco Javier de Pedro Falque,04/08/1973,Viniegra de Abajo,La Rioja,España,12,10,3,2,7,6,4,2,727,2,0,0,0,3,0,25,29,180.0,78.0
+Carmelo Cedrún,Carmelo Cedrún Ochandategui,06/12/1930,Amorebieta-Etxano,Bizkaia,España,13,12,12,1,0,4,3,6,1154,0,0,0,20,0,0,23,32,184.0,78.0
+Manuel Pablo,Manuel Pablo García Díaz,25/01/1976,Bañaderos,Las Palmas,España,13,10,9,3,1,7,3,3,1001,0,0,0,0,1,0,24,28,176.0,70.0
+Leal,Eugenio Leal Vargas,13/05/1953,Carriches,Toledo,España,13,10,8,3,2,7,2,4,971,1,0,0,0,1,0,23,25,178.0,74.0
+Aduriz,Aritz Aduriz Zubeldia,11/02/1981,Donostia/San Sebastián,Gipuzkoa,España,13,5,1,8,5,7,3,3,535,2,0,0,0,0,0,29,36,181.0,77.0
+Manjarín,Javier Manjarín Pereda,31/12/1969,Gijón,Asturias,España,13,9,5,4,4,9,4,0,737,2,0,0,0,1,0,25,27,173.0,73.0
+Marcos Llorente,Marcos Llorente Moreno,30/01/1995,Las Rozas,Madrid,España,13,8,7,5,1,5,7,1,838,0,0,0,0,1,0,26,26,184.0,73.0
+San José,Isidoro San José Pozo,27/10/1955,Madrid,Madrid,España,13,13,11,0,1,4,4,5,1095,0,0,0,0,1,1,22,24,176.0,69.0
+Capón,José Luis Capón González,06/02/1948,Madrid,Madrid,España,13,12,12,1,0,6,4,3,1124,1,0,0,0,1,0,25,29,175.0,72.0
+Marcelino,Marcelino Pérez Ayllón,13/08/1955,Sabadell,Barcelona,España,13,12,11,1,1,7,2,4,1043,0,0,0,0,1,0,22,23,171.0,68.0
+Olmo,Antonio Olmo Ramírez,18/01/1954,Sabadell,Barcelona,España,13,9,8,4,1,7,2,4,956,0,0,0,0,1,0,23,26,181.0,79.0
+Tamudo,Raúl Tamudo Montero,19/10/1977,Santa Coloma de Gramenet,Barcelona,España,13,4,1,9,3,6,6,1,584,5,0,0,0,0,0,22,30,177.0,74.0
+Guti,José María Gutiérrez Hernández,31/10/1976,Torrejón de Ardoz,Madrid,España,13,4,0,9,4,9,2,2,573,3,0,0,0,0,0,22,28,181.0,76.0
+Calleja,Isacio Calleja García,06/12/1936,Valle de Cerrato,Palencia,España,13,13,11,0,2,9,3,1,1171,0,0,0,0,0,0,24,35,172.0,71.0
+Costas,Enrique Álvarez Costas,16/01/1947,Vigo,Pontevedra,España,13,12,8,1,4,6,6,1,956,0,0,0,0,1,0,23,28,179.0,73.0
+Lapetra,Carlos Lapetra Coarasa,29/11/1938,Zaragoza,Zaragoza,España,13,13,11,0,2,6,2,5,1101,1,0,0,0,0,0,24,27,169.0,69.0
+Marcelino,Marcelino Martínez Cao,29/04/1940,Ares,A Coruña,España,14,14,14,0,0,7,2,5,1290,4,0,0,0,0,0,21,27,173.0,70.0
+Adelardo,Adelardo Rodríguez Sánchez,26/09/1939,Badajoz,Badajoz,España,14,13,12,1,1,3,4,7,1170,2,0,0,0,0,0,22,31,171.0,71.0
+Urquiaga,Santiago Urquiaga Pérez,18/04/1958,Barakaldo,Bizkaia,España,14,12,11,2,1,4,5,5,1131,0,0,0,0,0,0,21,26,177.0,76.0
+Tente Sánchez,José Vicente Sánchez Felip,08/10/1956,Barcelona,Barcelona,España,14,8,5,6,2,5,3,6,767,0,0,0,0,2,1,21,27,171.0,72.0
+Engonga,Vicente Engonga Maté,20/10/1965,Barcelona,Barcelona,España,14,7,5,7,2,10,4,0,700,1,0,0,0,3,0,32,34,181.0,84.0
+Raúl Bravo,Raúl Bravo Sanfélix,14/04/1981,Gandia,Valencia,España,14,12,9,2,3,8,4,2,1051,0,0,0,0,0,0,21,23,172.0,71.0
+Uría,Francisco Javier Álvarez Uría,01/02/1950,Gijón,Asturias,España,14,12,10,2,2,4,5,5,1114,0,0,0,0,1,0,23,30,174.0,73.0
+Lora,Enrique Lora Millán,07/05/1945,La Puebla del Río,Sevilla,España,14,7,5,7,3,7,6,1,836,1,0,0,0,0,0,24,27,162.0,68.0
+Grosso,Ramón Moreno Grosso,08/12/1943,Madrid,Madrid,España,14,12,11,2,1,4,4,6,1123,1,0,0,0,0,0,23,26,176.0,74.0
+Camarasa,Francisco José Camarasa Castellar,27/09/1967,Rafelbunyol,Valencia,España,14,7,6,7,1,10,3,1,777,0,0,0,0,1,0,25,27,183.0,75.0
+Bartra,Marc Bartra Aregall,15/01/1991,Sant Jaume dels Domenys,Tarragona,España,14,9,8,5,1,12,1,1,989,1,0,0,0,0,0,22,27,184.0,75.0
+Panizo,José Luis López Panizo,12/01/1922,Sestao,Bizkaia,España,14,14,14,0,0,7,3,4,1260,2,0,0,0,0,0,24,31,173.0,72.0
+Villarroya,Francisco Javier Pérez Villarroya,06/08/1966,Zaragoza,Zaragoza,España,14,13,11,1,2,7,5,2,1211,0,0,0,0,1,0,23,25,180.0,75.0
+Violeta,José Luis Violeta Lajusticia,25/02/1941,Zaragoza,Zaragoza,España,14,12,11,2,1,7,4,3,1093,1,0,0,0,0,0,25,32,175.0,68.0
+Laporte,Aymeric Jean Louis Gerard Alphonse Laporte,27/05/1994,Agen,Extranjero,Francia,15,15,13,0,2,8,5,2,1385,1,0,0,0,2,0,27,27,191.0,86.0
+Jiménez,Manuel Jiménez Jiménez,26/01/1964,Arahal,Sevilla,España,15,13,12,2,1,9,3,3,1242,0,0,0,0,1,0,24,26,178.0,73.0
+Rexach,Carles Rexach Cerdà,13/01/1947,Barcelona,Barcelona,España,15,11,8,4,3,8,5,2,1044,2,0,0,0,1,0,22,31,182.0,77.0
+Eric Garcia,Eric Garcia Martret,09/01/2001,Barcelona,Barcelona,España,15,12,6,3,6,8,5,2,1121,0,0,0,0,0,0,20,20,182.0,76.0
+Marcial,Marcial Manuel Pina Morales,23/08/1946,Bárzana de Quirós,Asturias,España,15,11,9,4,2,7,6,2,1049,0,0,0,0,0,0,20,29,180.0,70.0
+López Ufarte,Roberto López Ufarte,19/04/1958,Fez,Extranjero,Marruecos,15,11,8,4,3,7,3,5,1061,5,0,0,0,0,0,19,24,170.0,62.0
+Sarabia,Manuel Sarabia López,09/01/1957,Gallarta,Bizkaia,España,15,2,2,13,0,8,4,3,545,2,0,0,0,1,0,26,28,183.0,84.0
+Eloy,Eloy José Olaya Prendes,10/07/1964,Gijón,Asturias,España,15,1,1,14,1,10,4,1,534,4,0,0,0,2,0,21,26,167.0,65.0
+Diego Tristán,Diego Tristán Herrera,05/01/1976,La Algaba,Sevilla,España,15,7,2,8,5,10,4,1,770,4,0,0,0,0,0,25,27,186.0,79.0
+Vizcaíno,Juan Vizcaíno Morcillo,06/08/1966,La Pobla de Mafumet,Tarragona,España,15,14,9,1,5,6,4,5,1161,0,0,0,0,1,0,24,26,181.0,77.0
+Eusebio,Eusebio Sacristán Mena,13/04/1964,La Seca,Valladolid,España,15,5,3,10,2,9,0,6,651,0,0,0,0,0,0,22,28,171.0,70.0
+Amavisca,José Emilio Amavisca Gárate,19/06/1971,Laredo,Cantabria,España,15,11,4,4,7,10,5,0,894,1,0,0,0,1,0,23,26,182.0,68.0
+Fabián,Fabián Ruiz Peña,03/04/1996,Los Palacios y Villafranca,Sevilla,España,15,9,5,6,4,8,7,0,900,1,0,0,0,2,0,25,25,189.0,70.0
+Quique,Enrique Sánchez Flores,02/02/1965,Madrid,Madrid,España,15,9,6,6,3,7,3,5,949,0,0,0,0,1,0,22,26,176.0,72.0
+Pereda,Jesús María Pereda Ruiz de Temiño,15/06/1938,Medina de Pomar,Burgos,España,15,13,11,2,2,11,1,3,1253,6,0,0,0,0,0,21,30,170.0,70.0
+Miguel,Miguel González Pérez,27/04/1927,Santa Cruz de La Palma,Santa Cruz de Tenerife,España,15,14,14,1,0,6,4,5,1304,2,0,0,0,0,0,26,30,165.0,62.0
+Del Sol,Luis del Sol Cascajares,06/04/1935,Arcos de Jalón,Soria,España,16,15,14,1,1,9,3,4,1348,3,0,0,0,0,0,25,31,169.0,68.0
+Antonio López,Antonio López Guerrero,13/09/1981,Benidorm,Alicante,España,16,11,9,5,2,9,5,2,1096,1,0,0,0,1,0,23,25,176.0,73.0
+Fran,Francisco Javier González Pérez,14/07/1969,Carreira,A Coruña,España,16,13,5,3,8,8,7,1,983,2,0,0,0,0,0,23,30,179.0,71.0
+Riera,Albert Riera Ortega,15/04/1982,Manacor,Islas Baleares,España,16,10,7,6,3,14,1,1,1019,4,0,0,0,0,0,25,27,187.0,77.0
+Gonzalvo III,Mariano Gonzalvo Falcón,22/06/1922,Mollet del Vallès,Barcelona,España,16,16,15,0,1,6,5,5,1426,1,0,0,0,0,0,24,31,169.0,71.0
+Santamaría,José Emilio Santamaría Iglesias,31/07/1929,Montevideo,Extranjero,Uruguay,16,13,12,3,1,9,3,4,1258,0,0,0,0,0,0,29,32,179.0,81.0
+Ufarte,José Armando Ufarte Ventoso,17/05/1941,Pontevedra,Pontevedra,España,16,12,12,4,0,8,5,3,1209,2,0,0,0,0,0,23,31,171.0,63.0
+Nolito,Manuel Agudo Durán,15/10/1986,Sanlúcar de Barrameda,Cádiz,España,16,11,3,5,8,10,2,4,917,6,0,0,0,1,0,28,30,175.0,73.0
+Churruca,José Ignacio Churruca Sistiaga,28/01/1949,Zarautz,Gipuzkoa,España,16,14,9,2,5,8,5,3,1218,0,0,0,0,0,0,22,28,173.0,72.0
+Iñigo Martínez,Iñigo Martínez Berridi,17/05/1991,Ondarroa,Bizkaia,España,17,11,7,6,4,11,5,1,1096,0,0,0,0,3,0,22,29,182.0,77.0
+Gayà,José Luis Gayà Peña,25/05/1995,Pedreguer,Alicante,España,17,16,13,1,3,12,5,0,1395,3,0,0,0,1,0,26,26,172.0,68.0
+Gerard Moreno,Gerard Moreno Balagueró,07/04/1992,Santa Perpètua de Mogoda,Barcelona,España,17,9,2,8,7,7,9,1,834,5,0,0,0,0,0,29,29,177.0,75.0
+Luque,Albert Luque Martos,11/03/1978,Terrassa,Barcelona,España,17,6,2,11,4,12,4,1,710,2,0,0,0,0,0,24,27,183.0,80.0
+Pau Torres,Pau Francisco Torres,16/01/1997,Vila-real,Castellón,España,17,13,11,4,2,9,7,1,1275,1,0,0,0,1,0,24,24,191.0,80.0
+Belsué,Alberto Belsué Arias,02/03/1968,Zaragoza,Zaragoza,España,17,17,16,0,1,10,7,0,1540,0,0,0,0,2,0,26,28,171.0,69.0
+Javi Martínez,Javier Martínez Aginaga,02/09/1988,Aiegi,Navarra,España,18,12,11,6,1,15,1,2,1187,0,0,0,0,3,0,21,25,190.0,86.0
+Luis García,Luis Javier García Sanz,24/06/1978,Badalona,Barcelona,España,18,7,0,11,7,12,3,3,756,4,0,0,0,2,0,26,28,176.0,74.0
+Txetxu Rojo,José Francisco Rojo Arroita,28/01/1947,Bilbao,Bizkaia,España,18,16,9,2,7,8,8,2,1257,3,0,0,0,1,0,22,31,177.0,70.0
+Sarabia,Pablo Sarabia García,11/05/1992,Boadilla del Monte,Madrid,España,18,11,3,7,8,12,4,2,946,7,1,0,0,2,0,29,29,177.0,72.0
+Eizaguirre,Ignacio Eizaguirre Arregui,07/11/1920,Donostia/San Sebastián,Gipuzkoa,España,18,18,18,0,0,8,6,4,1620,0,0,0,31,0,0,24,32,181.0,84.0
+Iago Aspas,Iago Aspas Juncal,01/08/1987,Moaña,Pontevedra,España,18,6,0,12,6,10,6,2,681,6,0,0,0,1,0,29,31,175.0,67.0
+Miguel Ángel,Miguel Ángel González Suárez,24/12/1947,Ourense,Ourense,España,18,18,14,0,4,10,4,4,1444,0,0,0,9,1,0,27,30,174.0,73.0
+Joaquín,Joaquín Alonso González,09/06/1956,Oviedo,Asturias,España,18,15,11,3,4,5,6,7,1338,1,0,0,0,2,0,23,31,183.0,72.0
+Olivella,Ferran Olivella Pons,22/06/1936,Poble Sec,Barcelona,España,18,18,17,0,1,11,1,6,1606,0,0,0,0,0,0,20,29,174.0,73.0
+Del Bosque,Vicente del Bosque González,23/12/1950,Salamanca,Salamanca,España,18,17,11,1,6,6,6,6,1340,1,0,0,0,0,0,24,29,184.0,80.0
+Gárate,José Eulogio Gárate Ormaechea,20/09/1944,Sarandí,Extranjero,Argentina,18,17,9,1,8,9,6,3,1347,5,0,0,0,0,0,23,30,176.0,75.0
+Calderé,Ramón María Calderé del Rey,16/01/1959,Vila-rodona,Tarragona,España,18,11,10,7,1,11,3,4,1177,7,0,0,0,2,0,26,29,177.0,76.0
+Kubala,László Kubala Stecz,10/06/1927,Budapest,Extranjero,Hungría,19,19,18,0,1,9,5,5,1666,11,0,0,0,0,0,26,33,175.0,83.0
+Saúl,Saúl Ñíguez Esclapez,21/11/1994,Elx,Alicante,España,19,10,5,9,5,12,5,2,1016,3,0,0,0,2,0,21,24,184.0,76.0
+Tomás,Pedro Tomás Reñones Crego,09/08/1960,Santiago de Compostela,A Coruña,España,19,18,15,1,3,10,5,4,1530,0,0,0,0,2,0,25,29,171.0,70.0
+Alcácer,Francisco Alcácer García,30/08/1993,Torrent,Valencia,España,19,9,3,10,6,14,2,3,970,12,0,0,0,0,0,21,26,175.0,70.0
+Zarra,Pedro Telmo Zarraonandia Montoya,20/01/1921,Erandio,Bizkaia,España,20,19,19,1,0,8,6,6,1765,20,0,0,0,0,0,24,30,179.0,78.0
+Víctor Valdés,Víctor Valdés Arribas,14/01/1982,L'Hospitalet de Llobregat,Barcelona,España,20,11,6,9,6,13,4,3,1260,0,0,0,9,0,0,28,32,183.0,78.0
+Reija,Severino Reija Vázquez,25/11/1938,Lugo,Lugo,España,20,20,19,0,0,7,4,9,1796,0,0,0,0,0,1,23,28,165.0,68.0
+Francisco,Francisco Javier López Alfaro,01/11/1962,Osuna,Sevilla,España,20,13,7,7,6,14,3,3,1234,1,0,0,0,0,0,19,23,182.0,77.0
+Dani Olmo,Daniel Olmo Carvajal,07/05/1998,Terrassa,Barcelona,España,20,12,3,8,9,11,8,1,1207,4,0,0,0,1,0,23,22,179.0,68.0
+Perico Alonso,Miguel Ángel Alonso Oyarbide,01/02/1953,Tolosa,Gipuzkoa,España,20,19,18,1,1,8,7,5,1733,1,0,0,0,0,0,27,29,178.0,75.0
+Glaría,Jesús Glaría Jordán,02/01/1942,Villafranca,Navarra,España,20,19,18,1,1,5,6,9,1726,0,0,0,0,0,0,20,27,179.0,74.0
+Oyarzabal,Mikel Oyarzabal Ugarte,21/04/1997,Eibar,Gipuzkoa,España,21,8,3,13,5,11,8,2,905,6,0,0,0,1,0,19,23,181.0,79.0
+José María Peña,Anacleto José María Peña Salegui,19/04/1895,Getxo,Bizkaia,España,21,21,20,0,0,17,1,3,1870,1,0,0,0,0,1,26,35,175.0,78.0
+Güiza,Daniel González Güiza,17/08/1980,Jerez de la Frontera,Cádiz,España,21,3,1,18,2,20,1,0,687,6,0,0,0,2,0,27,29,182.0,80.0
+Paco Jémez,Francisco Manuel Jémez Martín,18/04/1970,Las Palmas de Gran Canaria,Las Palmas,España,21,16,14,5,2,11,4,6,1535,0,0,0,0,5,0,28,31,180.0,79.0
+Negredo,Álvaro Negredo Sánchez,20/08/1985,Madrid,Madrid,España,21,10,2,11,8,17,3,1,873,10,0,0,0,0,0,24,28,185.0,82.0
+Caminero,José Luis Pérez Caminero,08/11/1967,Madrid,Madrid,España,21,15,9,6,6,13,7,1,1359,8,0,0,0,4,0,25,28,187.0,86.0
+Unai Simón,Unai Simón Mendibil,11/06/1997,Murgia,Araba/Álava,España,21,21,20,0,1,11,8,2,1964,0,0,0,16,0,0,24,23,190.0,88.0
+Munitis,Pedro Manuel Munitis Álvarez,19/06/1975,Santander,Cantabria,España,21,8,4,13,4,15,3,3,1043,2,0,0,0,2,0,23,26,170.0,71.0
+Reyes,José Antonio Reyes Calderón,01/09/1983,Utrera,Sevilla,España,21,10,3,11,7,15,6,0,1063,4,0,0,0,3,0,20,22,175.0,71.0
+Nacho,José Ignacio Fernández Iglesias,18/01/1990,Alcalá de Henares,Madrid,España,22,11,10,11,1,10,11,1,1381,1,0,0,0,0,0,23,28,180.0,76.0
+Tonono,Antonio Afonso Moreno,25/08/1943,Arucas,Las Palmas,España,22,21,20,1,1,10,9,3,1900,0,0,0,0,0,0,24,29,175.0,77.0
+Villar,Ángel María Villar Llona,21/01/1950,Bilbao,Bizkaia,España,22,19,15,3,4,9,8,5,1670,3,0,0,0,1,0,23,29,179.0,73.0
+Juanfran,Juan Francisco Torres Belén,09/01/1985,Crevillent,Alicante,España,22,21,17,1,4,16,2,4,1793,1,0,0,0,1,0,27,31,180.0,69.0
+Monreal,Ignacio Monreal Eraso,26/02/1986,Ezkirotz,Navarra,España,22,17,14,5,3,15,5,2,1544,1,0,0,0,1,0,23,32,179.0,77.0
+Rincón,Hipólito Rincón Povedano,28/04/1957,Madrid,Madrid,España,22,16,3,6,13,13,5,4,1247,10,0,0,0,5,0,25,29,180.0,75.0
+Begiristain,Aitor Begiristain Mújika,12/08/1964,Olaberria,Gipuzkoa,España,22,12,6,10,6,12,4,6,1227,6,1,0,0,0,0,23,29,171.0,70.0
+Benito,Gregorio Benito Rubio,21/10/1946,Puente del Arzobispo,Toledo,España,22,22,21,0,1,9,8,5,1963,0,0,1,0,5,0,24,31,180.0,79.0
+Pizzi,Juan Antonio Pizzi Torroja,07/06/1968,Santa Fe,Extranjero,Argentina,22,17,5,5,11,13,8,1,1268,8,0,0,0,1,1,26,30,185.0,84.0
+Marcos Alonso,Marcos Alonso Peña,01/10/1959,Santander,Cantabria,España,22,16,9,6,7,14,5,3,1351,1,0,0,0,2,0,21,25,176.0,74.0
+Basora,Estanislao Basora Brunet,18/11/1926,Valls de Torroella,Barcelona,España,22,22,22,0,0,11,6,5,1980,13,0,0,0,0,0,22,30,171.0,69.0
+Pablo Ibáñez,Pablo Ibáñez Tébar,03/08/1981,Madrigueras,Albacete,España,23,20,18,3,2,16,5,2,1899,0,0,1,0,0,0,23,26,192.0,80.0
+Saura,Enrique Saura Gil,02/08/1954,Onda,Castellón,España,23,13,11,10,2,9,6,8,1418,4,0,0,0,0,0,24,27,171.0,69.0
+Claramunt,José Claramunt Torres,16/07/1946,Puçol,Valencia,España,23,21,18,2,2,10,7,6,1859,4,0,0,0,1,1,21,28,165.0,69.0
+Puchades,Antonio Puchades Casanova,04/06/1925,Sueca,Valencia,España,23,21,21,2,0,10,8,5,2042,0,0,0,0,0,0,23,28,179.0,80.0
+Ferran Torres,Ferran Torres García,29/02/2000,Foios,Valencia,España,24,18,8,6,10,12,9,3,1625,13,0,0,0,0,0,21,21,184.0,77.0
+Diego Costa,Diego da Silva Costa,07/10/1988,Lagarto,Extranjero,Brasil,24,21,5,3,16,14,6,4,1678,10,0,0,0,4,0,25,29,188.0,86.0
+Llorente,Fernando Javier Llorente Torres,26/02/1985,Rincón de Soto,La Rioja,España,24,7,1,17,6,19,1,4,963,7,0,0,0,1,0,23,28,195.0,90.0
+Zoco,Ignacio Zoco Esparza,31/07/1939,Garde,Navarra,España,25,24,24,1,0,11,4,10,2245,1,0,0,0,0,0,21,29,183.0,76.0
+Dani,Daniel Ruiz-Bazán Justa,28/06/1951,Sopuerta,Bizkaia,España,25,17,13,8,4,9,9,7,1556,9,4,0,0,2,0,26,30,170.0,73.0
+Urzaiz,Ismael Urzaiz Aranda,07/10/1971,Tudela,Navarra,España,25,15,2,10,13,14,6,5,1212,8,0,0,0,0,0,25,29,188.0,88.0
+Rivilla,Feliciano Muñoz Rivilla,21/08/1936,Ávila,Ávila,España,26,26,26,0,0,14,4,8,2370,0,0,0,0,0,0,23,29,170.0,67.0
+Juanito,Juan Gutiérrez Moreno,23/07/1976,Cádiz,Cádiz,España,26,19,18,7,1,17,6,3,1946,3,0,0,0,1,0,26,32,183.0,76.0
+Kiko,Francisco Miguel Narváez Machón,26/04/1972,Jerez de la Frontera,Cádiz,España,26,14,5,12,9,17,7,2,1578,4,0,0,0,3,0,20,26,189.0,88.0
+Asensio,Marco Asensio Willemsen,21/01/1996,Palma,Islas Baleares,España,26,13,8,13,5,17,7,2,1413,1,0,0,0,0,0,20,24,182.0,76.0
+Chendo,Miguel Porlán Noguera,12/10/1961,Totana,Murcia,España,26,24,18,2,5,16,5,5,2131,0,0,0,0,4,1,24,28,175.0,73.0
+Carvajal,Daniel Carvajal Ramos,11/01/1992,Leganés,Madrid,España,27,26,22,1,4,18,7,2,2342,0,0,0,0,3,0,22,29,173.0,73.0
+Tendillo,Miguel Tendillo Belenguer,01/02/1961,Moncada,Valencia,España,27,25,22,2,3,9,10,8,2302,1,0,0,0,1,0,19,27,185.0,77.0
+Rodrigo,Rodrigo Moreno Machado,06/03/1991,Río de Janeiro,Extranjero,Brasil,27,16,8,11,8,15,9,3,1458,8,0,0,0,1,0,23,30,182.0,69.0
+Manolo,Manuel Sánchez Delgado,17/01/1965,Cáceres,Cáceres,España,28,24,7,4,17,15,6,7,1814,9,0,0,0,0,0,23,27,170.0,65.0
+Aranzábal,Agustín Aranzábal Alkorta,15/03/1973,Donostia/San Sebastián,Gipuzkoa,España,28,23,20,5,3,20,5,3,2116,0,0,0,0,0,0,22,30,186.0,78.0
+Sol,Juan Cruz Sol Oria,13/09/1947,Elgoibar,Gipuzkoa,España,28,27,20,1,7,12,11,5,2168,1,0,0,0,3,0,22,28,180.0,76.0
+Andrinúa,Genar Andrinúa Kortabarría,09/05/1964,Getxo,Bizkaia,España,28,25,21,3,4,15,4,9,2179,2,0,0,0,1,0,22,26,182.0,76.0
+Senna,Marcos Antônio Senna da Silva,17/07/1976,Río de Janeiro,Extranjero,Brasil,28,21,15,7,6,24,2,2,1919,1,0,0,0,1,0,29,33,177.0,70.0
+Robert,Roberto Fernández Bonillo,05/07/1962,Betxí,Castellón,España,29,24,18,5,6,16,6,7,2122,1,0,0,0,4,0,20,28,179.0,72.0
+Garay,Jesús Garay Vecino,10/09/1930,Bilbao,Bizkaia,España,29,28,25,1,3,16,5,8,2432,1,0,0,0,0,0,22,31,180.0,76.0
+Zamora,Jesús María Zamora Ansorena,01/01/1955,Donostia/San Sebastián,Gipuzkoa,España,30,28,25,2,3,11,11,8,2450,3,0,0,0,1,0,23,27,180.0,74.0
+Bakero,José María Bakero Escudero,11/02/1963,Goizueta,Navarra,España,30,19,12,11,7,16,6,8,1825,7,0,0,0,3,0,24,31,172.0,72.0
+Di Stéfano,Alfredo Stéfano Di Stéfano Laulhé,04/07/1926,Buenos Aires,Extranjero,Argentina,31,31,31,0,0,20,5,6,2790,23,0,0,0,0,0,30,35,175.0,76.0
+Rodri,Rodrigo Hernández Cascante,22/06/1996,Madrid,Madrid,España,31,18,15,13,3,17,11,3,1771,1,0,0,0,3,0,21,24,190.0,83.0
+Luis Suárez,Luis Suárez Miramontes,02/05/1935,A Coruña,A Coruña,España,32,31,30,1,1,20,4,8,2820,14,0,0,0,0,0,21,36,174.0,72.0
+Migueli,Miguel Bernardo Bianquetti,19/12/1951,Ceuta,Ceuta,España,32,31,27,1,4,14,10,8,2709,1,0,0,0,4,0,22,28,183.0,81.0
+Satrústegui,Jesús María Satrústegui Azpiroz,12/01/1954,Pamplona,Navarra,España,32,28,18,4,10,13,12,7,2185,8,1,0,0,0,0,21,28,178.0,74.0
+Gainza,Agustín Gainza Vicandi,28/05/1922,Basauri,Bizkaia,España,33,33,33,0,0,13,12,8,3000,10,3,0,0,0,0,22,32,172.0,71.0
+Alexanko,José Ramón Alexanko Ventosa,19/05/1956,Barakaldo,Bizkaia,España,34,34,32,0,1,11,13,10,3025,4,0,0,0,4,1,22,26,182.0,81.0
+Juanito,Juan Gómez González,10/11/1954,Fuengirola,Málaga,España,34,31,19,3,12,12,10,12,2589,8,2,0,0,5,0,21,27,169.0,70.0
+Julio Alberto,Julio Alberto Moreno Casas,07/10/1958,Oviedo,Asturias,España,34,22,10,12,12,18,11,5,1876,0,0,0,0,2,0,25,29,177.0,68.0
+Carrasco,Francisco José Carrasco Hidalgo,06/03/1959,Alcoi,Alicante,España,35,22,15,13,7,17,7,11,2166,5,2,0,0,5,0,20,28,182.0,76.0
+Ramallets,Antonio Ramallets Simón,04/07/1924,Barcelona,Barcelona,España,35,35,33,0,2,18,8,9,3101,0,0,0,50,0,0,25,36,181.0,79.0
+Quini,Enrique Castro González,23/09/1949,Oviedo,Asturias,España,35,24,13,11,11,16,12,7,2339,8,0,0,0,0,0,21,32,176.0,74.0
+Ferrer,Albert Ferrer Llopis,06/06/1970,Barcelona,Barcelona,España,36,32,28,4,4,23,8,5,2870,0,0,0,0,6,0,21,29,170.0,65.0
+Reina,José Manuel Reina Páez,31/08/1982,Madrid,Madrid,España,36,25,18,11,7,28,5,3,2415,0,0,0,21,0,0,22,35,188.0,92.0
+Goikoetxea,Jon Andoni Goikoetxea Lasa,21/10/1965,Pamplona,Navarra,España,36,28,18,8,10,22,7,7,2433,4,0,0,0,3,0,24,30,175.0,75.0
+Gallego,Francisco Fernández Rodríguez,04/03/1944,Puerto Real,Cádiz,España,36,33,30,3,3,18,10,8,2961,0,0,0,0,2,0,22,28,177.0,75.0
+Maceda,Antonio Maceda Francés,16/05/1957,Sagunt,Valencia,España,36,34,32,2,2,19,10,7,3026,8,0,0,0,4,0,23,29,189.0,85.0
+Amor,Guillermo Amor Martínez,04/12/1967,Benidorm,Alicante,España,37,25,17,12,8,17,13,7,2344,4,0,0,0,5,1,22,30,174.0,69.0
+Isco,Francisco Román Alarcón Suárez,21/04/1992,Arroyo de la Miel,Málaga,España,38,25,14,13,11,27,7,4,2283,12,0,0,0,2,0,20,27,176.0,79.0
+Alfonso,Alfonso Pérez Muñoz,26/09/1972,Getafe,Madrid,España,38,21,6,17,15,19,13,6,2028,11,0,0,0,3,0,19,27,178.0,69.0
+Martín Vázquez,Rafael Martín Vázquez,25/09/1965,Madrid,Madrid,España,38,33,24,5,9,19,9,10,2859,1,0,0,0,4,0,21,27,180.0,73.0
+Vicente,Vicente Rodríguez Guillén,16/07/1981,València,Valencia,España,38,28,13,10,15,23,12,3,2333,3,1,0,0,0,0,19,24,176.0,72.0
+Azpilicueta,César Azpilicueta Tanco,28/08/1989,Zizur Nagusia,Navarra,España,38,28,23,10,5,25,6,7,2697,1,0,0,0,1,0,23,32,178.0,75.0
+Goikoetxea,Andoni Goikoetxea Olaskoaga,23/08/1956,Alonsotegi,Bizkaia,España,39,38,33,1,5,22,10,7,3235,4,2,0,0,7,0,26,31,181.0,81.0
+Mendieta,Gaizka Mendieta Zabala,27/03/1974,Lekeitio,Bizkaia,España,40,21,8,19,13,25,9,6,2036,8,2,0,0,0,0,25,28,173.0,69.0
+Asensi,Juan Manuel Asensi Ripoll,23/09/1949,Alicante,Alicante,España,41,38,34,3,4,20,9,12,3324,7,0,0,0,2,0,19,30,180.0,79.0
+Mata,Juan Manuel Mata García,28/04/1988,Burgos,Burgos,España,41,18,5,23,13,29,7,5,1673,10,1,0,0,0,0,20,28,170.0,63.0
+Pirri,José Martínez Sánchez,11/03/1945,Ceuta,Ceuta,España,41,40,33,1,7,22,9,10,3347,16,3,0,0,2,0,21,33,174.0,72.0
+Señor,Juan Antonio Señor Gómez,26/08/1958,Madrid,Madrid,España,41,28,24,13,4,23,11,7,2775,6,2,0,0,0,0,24,29,167.0,64.0
+Julen Guerrero,Julen Guerrero López,07/01/1974,Portugalete,Bizkaia,España,41,28,9,13,19,30,10,1,2095,13,1,0,0,4,0,19,26,178.0,73.0
+Amancio,Amancio Amaro Varela,16/10/1939,A Coruña,A Coruña,España,42,41,31,1,10,19,10,13,3420,11,0,0,0,0,0,23,34,168.0,67.0
+Gallego,Ricardo Gallego Redondo,08/02/1959,Madrid,Madrid,España,42,37,25,5,12,22,10,10,3151,2,0,0,0,1,0,23,29,179.0,72.0
+Gento,Francisco Gento López,21/10/1933,Guarnizo,Cantabria,España,43,43,42,0,1,23,8,12,3833,5,0,0,0,0,0,21,35,168.0,71.0
+Baraja,Rubén Baraja Vegas,11/07/1975,Valladolid,Valladolid,España,43,29,13,14,16,26,14,3,2511,7,0,1,0,9,0,25,30,181.0,77.0
+De Gea,David de Gea Quintana,07/11/1990,Illescas,Toledo,España,45,44,42,1,2,27,10,8,3924,0,0,0,36,1,0,23,29,192.0,82.0
+Valerón,Juan Carlos Valerón Santana,17/06/1975,Arguineguín,Las Palmas,España,46,26,9,20,17,27,15,4,2797,5,0,0,0,3,0,23,29,184.0,71.0
+Jesús Navas,Jesús Navas González,21/11/1985,Los Palacios y Villafranca,Sevilla,España,46,17,13,29,4,32,9,5,2470,5,0,0,0,1,0,23,34,172.0,64.0
+Cañizares,José Santiago Cañizares Ruiz,18/12/1969,Madrid,Madrid,España,46,30,22,16,9,34,8,4,3160,0,0,0,26,1,0,23,36,181.0,78.0
+Thiago Alcántara,Thiago Alcántara do Nascimento,11/04/1991,San Pietro Vernotico,Extranjero,Italia,46,29,14,17,15,27,15,4,2625,2,0,0,0,4,0,20,30,174.0,70.0
+Morientes,Fernando Morientes Sánchez,05/04/1976,Cilleros,Cáceres,España,47,31,8,16,23,29,12,6,2523,27,0,0,0,2,0,21,30,184.0,78.0
+Iván Helguera,Iván Helguera Bujía,28/03/1975,Santander,Cantabria,España,47,32,22,15,10,29,12,6,2988,3,0,0,0,7,0,23,29,185.0,73.0
+Guardiola,Josep Guardiola Sala,18/01/1971,Santpedor,Barcelona,España,47,38,21,9,17,32,8,7,3325,5,3,0,0,3,0,21,30,180.0,76.0
+Sanchis,Manuel Sanchis Hontiyuelo,23/05/1965,Madrid,Madrid,España,48,45,39,3,5,23,9,16,3990,1,0,0,0,4,1,21,26,177.0,72.0
+Iribar,José Ángel Iribar Kortajarena,01/03/1943,Zarautz,Gipuzkoa,España,49,48,47,1,1,23,16,10,4350,0,0,1,42,0,0,21,33,182.0,80.0
+Joaquín,Joaquín Sánchez Rodríguez,21/07/1981,El Puerto de Santa María,Cádiz,España,51,28,12,23,16,32,15,4,2961,4,0,0,0,2,0,20,26,179.0,75.0
+Albelda,David Albelda Aliqués,01/09/1977,La Pobla Llarga,Valencia,España,51,46,23,5,23,35,13,3,3666,0,0,0,0,12,0,24,30,183.0,80.0
+Morata,Álvaro Borja Morata Martín,23/10/1992,Madrid,Madrid,España,52,38,12,14,26,32,13,7,3188,25,2,0,0,3,0,22,28,190.0,84.0
+Míchel Salgado,Miguel Ángel Salgado Fernández,22/10/1975,As Neves,Pontevedra,España,53,49,42,4,7,35,13,5,4291,0,0,0,0,9,0,22,30,176.0,72.0
+Etxeberria,Joseba Andoni Etxeberria Lizardi,05/09/1977,Elgoibar,Gipuzkoa,España,53,39,15,14,24,34,10,9,3203,12,0,0,0,2,0,20,26,178.0,72.0
+Alkorta,Rafael Alkorta Martínez,16/09/1968,Bilbao,Bizkaia,España,54,50,44,4,6,32,15,7,4401,0,0,0,0,11,0,21,30,179.0,74.0
+Abelardo,Abelardo Fernández Antuña,19/04/1970,Gijón,Asturias,España,54,53,50,1,3,27,18,9,4739,3,0,0,0,10,0,21,30,180.0,77.0
+Julio Salinas,Julio Salinas Fernández,11/09/1962,Bilbao,Bizkaia,España,56,40,14,16,26,29,17,10,3206,22,0,0,0,4,0,23,33,188.0,80.0
+Sergi,Sergi Barjuán Esclusa,28/12/1971,Les Franqueses del Vallès,Barcelona,España,56,54,46,2,7,30,20,6,4701,1,0,0,0,8,1,22,30,172.0,68.0
+Arbeloa,Álvaro Arbeloa Coca,17/01/1983,Salamanca,Salamanca,España,56,45,38,11,7,42,8,6,4252,0,0,0,0,9,0,25,30,184.0,78.0
+Santillana,Carlos Alonso González,23/08/1952,Santillana del Mar,Cantabria,España,56,46,37,10,9,23,16,17,4412,15,0,0,0,1,0,22,32,175.0,74.0
+Albiol,Raúl Albiol Tortajada,04/09/1985,València,Valencia,España,58,46,43,12,3,50,3,5,4548,0,0,0,0,3,0,22,36,187.0,74.0
+Capdevila,Joan Capdevila Méndez,03/02/1978,Tàrrega,Lleida,España,60,54,43,6,11,53,3,4,4744,4,0,0,0,5,0,24,33,182.0,78.0
+Víctor Muñoz,Víctor Muñoz Manrique,15/03/1957,Zaragoza,Zaragoza,España,60,58,50,2,8,32,15,13,5083,3,0,0,0,9,0,24,31,172.0,71.0
+Luis Enrique,Luis Enrique Martínez García,08/05/1970,Gijón,Asturias,España,62,54,36,8,18,36,18,8,4632,12,0,0,0,8,0,20,32,180.0,73.0
+Koke,Jorge Resurrección Merodio,08/01/1992,Madrid,Madrid,España,62,41,28,21,13,37,18,7,4007,0,0,0,0,1,0,21,29,176.0,77.0
+Nadal,Miquel Àngel Nadal Homar,28/07/1966,Manacor,Islas Baleares,España,62,56,45,6,9,39,15,8,4906,3,0,0,0,5,2,25,35,187.0,83.0
+Pedro,Pedro Eliezer Rodríguez Ledesma,28/07/1987,Santa Cruz de Tenerife,Santa Cruz de Tenerife,España,65,36,12,29,24,45,8,12,3505,17,0,0,0,3,0,22,30,169.0,65.0
+Míchel,José Miguel González Martín del Campo,23/03/1963,Madrid,Madrid,España,66,65,43,1,22,35,15,16,5390,21,9,1,0,4,0,22,29,182.0,77.0
+Arconada,Luis Miguel Arconada Echarri,26/06/1954,Donostia/San Sebastián,Gipuzkoa,España,68,65,60,3,5,28,22,18,5792,0,0,0,62,0,0,22,30,179.0,78.0
+Marchena,Carlos Marchena López,31/07/1979,Las Cabezas de San Juan,Sevilla,España,69,57,49,12,8,54,12,3,5088,2,0,0,0,12,0,23,31,182.0,76.0
+Butragueño,Emilio Butragueño Santos,22/07/1963,Madrid,Madrid,España,69,67,42,2,25,37,13,19,5459,26,3,0,0,0,0,21,29,170.0,68.0
+Gordillo,Rafael Gordillo Vázquez,24/02/1957,Almendralejo,Badajoz,España,75,72,57,3,15,30,24,21,6285,3,0,0,0,4,0,21,31,180.0,74.0
+Camacho,José Antonio Camacho Alfaro,08/06/1955,Cieza,Murcia,España,81,79,72,2,7,40,24,17,7003,0,0,0,0,9,0,19,33,174.0,70.0
+Cazorla,Santiago Cazorla González,13/12/1984,Lugo de Llanera,Asturias,España,81,41,16,40,25,64,7,10,4283,15,1,0,0,4,0,23,34,168.0,66.0
+Jordi Alba,Jordi Alba Ramos,21/03/1989,L'Hospitalet de Llobregat,Barcelona,España,82,77,63,5,14,53,19,10,6867,8,0,0,0,8,0,22,32,170.0,68.0
+Hierro,Fernando Ruiz Hierro,23/03/1968,Vélez-Málaga,Málaga,España,89,81,63,8,17,52,28,9,7020,29,11,1,0,12,1,21,34,187.0,84.0
+Villa,David Villa Sánchez,03/12/1981,Tuilla,Asturias,España,98,80,31,18,49,79,7,12,6371,59,9,0,0,6,0,23,35,175.0,69.0
+Puyol,Carles Puyol Saforcada,13/04/1978,La Pobla de Segur,Lleida,España,100,94,70,6,24,70,19,11,7708,3,0,1,0,16,0,22,34,178.0,78.0
+Piqué,Gerard Piqué Bernabeu,02/02/1987,Barcelona,Barcelona,España,102,96,78,6,17,73,15,14,8420,5,0,1,0,14,1,22,31,194.0,85.0
+Raúl,Raúl González Blanco,27/06/1977,Madrid,Madrid,España,102,93,50,9,43,65,23,14,7556,44,3,0,0,1,0,19,29,180.0,70.0
+Fàbregas,Francesc Fàbregas Soler,04/05/1987,Arenys de Mar,Barcelona,España,110,68,22,42,46,82,13,15,6162,15,0,0,0,15,0,18,29,180.0,77.0
+Fernando Torres,Fernando José Torres Sanz,20/03/1984,Fuenlabrada,Madrid,España,110,75,21,35,54,82,16,12,6052,38,5,0,0,4,0,19,30,186.0,78.0
+Xabi Alonso,Xabier Alonso Olano,25/11/1981,Tolosa,Gipuzkoa,España,114,86,48,28,37,88,13,13,7453,16,6,0,0,10,1,21,32,183.0,75.0
+Silva,David Josué Jiménez Silva,08/01/1986,Arguineguín,Las Palmas,España,125,96,37,29,59,90,21,14,7956,35,2,0,0,10,0,20,32,170.0,67.0
+Zubizarreta,Andoni Zubizarreta Urreta,23/10/1961,Vitoria-Gasteiz,Araba/Álava,España,126,125,106,1,18,70,33,23,10804,0,0,1,100,2,1,23,36,187.0,86.0
+Iniesta,Andrés Iniesta Luján,11/05/1984,Fuentealbilla,Albacete,España,131,105,47,26,58,96,20,15,8875,13,1,0,0,4,0,22,34,171.0,68.0
+Busquets,Sergio Busquets Burgos,16/07/1988,Sabadell,Barcelona,España,133,119,89,14,30,94,20,19,10570,2,0,0,0,23,0,20,32,189.0,76.0
+Xavi,Xavier Hernández Creus,25/01/1980,Terrassa,Barcelona,España,133,108,64,25,44,100,22,11,9377,13,0,0,0,9,0,20,34,170.0,68.0
+Casillas,Iker Casillas Fernández,20/05/1981,Móstoles,Madrid,España,167,154,125,13,29,121,27,19,13305,0,0,0,93,2,0,19,35,182.0,80.0
+Sergio Ramos,Sergio Ramos García,30/03/1986,Camas,Sevilla,España,180,161,118,19,43,131,28,21,13709,23,8,0,0,24,0,18,34,184.0,83.0
